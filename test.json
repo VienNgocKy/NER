@@ -1,0 +1,788 @@
+[{
+    "sentence": "Địa chỉ IP của router là 10.0.0.1.",
+    "entities": [
+        [
+            28,
+            38,
+            "IP"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Máy chủ của chúng tôi có địa chỉ IP là 192.168.1.1.",
+    "entities": [
+        [
+            36,
+            46,
+            "IP"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Hãy kiểm tra địa chỉ IP của máy tính bằng lệnh ipconfig.",
+    "entities": [
+        [
+            30,
+            40,
+            "IP"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Cài đặt firewall với địa chỉ IP 172.16.0.1.",
+    "entities": [
+        [
+            33,
+            43,
+            "IP"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Địa chỉ IP 8.8.8.8 là của Google DNS.",
+    "entities": [
+        [
+            14,
+            24,
+            "IP"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Chúng tôi cần địa chỉ IP của server để kết nối.",
+    "entities": [
+        [
+            28,
+            38,
+            "IP"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Máy in mạng có địa chỉ IP là 192.168.2.100.",
+    "entities": [
+        [
+            31,
+            43,
+            "IP"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Địa chỉ IP của thiết bị này là 2001:db8::ff00:42:8329.",
+    "entities": [
+        [
+            31,
+            50,
+            "IP"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Chúng tôi đã xác minh địa chỉ IP 172.31.255.255.",
+    "entities": [
+        [
+            28,
+            39,
+            "IP"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Google là một tổ chức công nghệ hàng đầu.",
+    "entities": [
+        [
+            0,
+            6,
+            "ORG"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Tập đoàn Microsoft có trụ sở tại Redmond, Washington.",
+    "entities": [
+        [
+            12,
+            22,
+            "ORG"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Công ty TNHH Samsung Electronics vừa công bố sản phẩm mới.",
+    "entities": [
+        [
+            0,
+            25,
+            "ORG"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Cơ quan quản lý dịch vụ quốc gia là một tổ chức quan trọng.",
+    "entities": [
+        [
+            22,
+            47,
+            "ORG"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Liên Hợp Quốc (UN) đã tổ chức một cuộc họp cấp cao.",
+    "entities": [
+        [
+            0,
+            12,
+            "ORG"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Bệnh viện Đa khoa Hà Nội là một trong những cơ sở y tế hàng đầu.",
+    "entities": [
+        [
+            0,
+            27,
+            "ORG"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Đại học Harvard nổi tiếng với chương trình đào tạo xuất sắc.",
+    "entities": [
+        [
+            0,
+            14,
+            "ORG"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Hội đồng Bảo an Liên Hợp Quốc đang xem xét tình hình hiện tại.",
+    "entities": [
+        [
+            0,
+            24,
+            "ORG"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Viện nghiên cứu công nghệ thông tin quốc gia là nơi hàng đầu trong ngành.",
+    "entities": [
+        [
+            0,
+            31,
+            "ORG"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Hội Thảo Kinh tế Quốc tế vừa diễn ra tại Paris.",
+    "entities": [
+        [
+            0,
+            22,
+            "ORG"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Ông Nguyễn Văn A là giám đốc của công ty ABC.",
+    "entities": [
+        [
+            0,
+            11,
+            "PER"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Bà Trần Thị Mai là một nhà khoa học nổi tiếng.",
+    "entities": [
+        [
+            0,
+            12,
+            "PER"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Chị Linh là người phụ trách dự án này.",
+    "entities": [
+        [
+            0,
+            6,
+            "PER"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Anh Tâm đã nhận được giải thưởng xuất sắc.",
+    "entities": [
+        [
+            0,
+            4,
+            "PER"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Ông John Doe là giám đốc điều hành của công ty.",
+    "entities": [
+        [
+            0,
+            8,
+            "PER"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Bà Nguyễn Thị Hoa đã phát biểu tại hội nghị.",
+    "entities": [
+        [
+            0,
+            12,
+            "PER"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Thầy Nam là giáo viên dạy toán của lớp tôi.",
+    "entities": [
+        [
+            0,
+            7,
+            "PER"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Nguyễn Văn Bình là một nhà đầu tư nổi tiếng.",
+    "entities": [
+        [
+            0,
+            13,
+            "PER"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Chị An là người bạn tốt của tôi.",
+    "entities": [
+        [
+            0,
+            6,
+            "PER"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Ông Hoàng Minh là một chuyên gia trong lĩnh vực tài chính.",
+    "entities": [
+        [
+            0,
+            13,
+            "PER"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Địa chỉ của công ty là 123 Đường Lê Lợi, Hà Nội.",
+    "entities": [
+        [
+            19,
+            40,
+            "ADD"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Bạn có thể gửi thư tới số 45 Phố Huế, TP. Hồ Chí Minh.",
+    "entities": [
+        [
+            32,
+            47,
+            "ADD"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Chúng tôi đã di chuyển đến địa chỉ mới: 789 Đường Nguyễn Trãi, Quận 5.",
+    "entities": [
+        [
+            30,
+            56,
+            "ADD"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Địa chỉ của văn phòng là 12B Đường Nguyễn Du, Đà Nẵng.",
+    "entities": [
+        [
+            20,
+            39,
+            "ADD"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Hãy gửi hàng đến 67 Đường Bạch Đằng, Hải Phòng.",
+    "entities": [
+        [
+            23,
+            39,
+            "ADD"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Chúng tôi sẽ gặp nhau tại 98 Đường Hoàng Hoa Thám, Quận Ba Đình.",
+    "entities": [
+        [
+            26,
+            45,
+            "ADD"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Số nhà 12A, Đường Lê Văn Sỹ, Thành phố Hồ Chí Minh là địa chỉ của tôi.",
+    "entities": [
+        [
+            0,
+            30,
+            "ADD"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Địa chỉ gửi thư của tôi là 345 Đường Nguyễn Thị Minh Khai, TP. Hồ Chí Minh.",
+    "entities": [
+        [
+            24,
+            53,
+            "ADD"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Chúng tôi cần đổi địa chỉ giao hàng thành 56 Đường Trần Hưng Đạo, Hà Nội.",
+    "entities": [
+        [
+            34,
+            56,
+            "ADD"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Hãy đến số 78 Đường Láng, Hà Nội để nhận hàng.",
+    "entities": [
+        [
+            12,
+            27,
+            "ADD"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Cuộc họp sẽ diễn ra vào ngày 15/08/2024.",
+    "entities": [
+        [
+            28,
+            37,
+            "DATE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Tôi có một cuộc hẹn vào ngày 01/09/2024 lúc 10h sáng.",
+    "entities": [
+        [
+            28,
+            38,
+            "DATE"
+        ],[43,51,"TIME"]
+    ]
+}
+,
+{
+    "sentence": "Kỳ nghỉ của chúng tôi bắt đầu từ ngày 20/12/2024.",
+    "entities": [
+        [
+            26,
+            35,
+            "DATE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Bài kiểm tra sẽ được tổ chức vào ngày 10 tháng 7 năm 2024.",
+    "entities": [
+        [
+            31,
+            46,
+            "DATE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Hội nghị quốc tế sẽ diễn ra từ ngày 05/11/2024 đến ngày 10/11/2024.",
+    "entities": [
+        [
+            29,
+            39,
+            "DATE"
+        ],
+        [
+            44,
+            54,
+            "DATE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Hãy hoàn thành báo cáo trước ngày 31/12/2024.",
+    "entities": [
+        [
+            30,
+            39,
+            "DATE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Chuyến đi của chúng tôi dự kiến vào ngày 05/10/2024.",
+    "entities": [
+        [
+            29,
+            38,
+            "DATE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Cuộc thi sẽ bắt đầu vào ngày 22 tháng 8 năm 2024.",
+    "entities": [
+        [
+            24,
+            37,
+            "DATE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Hãy nhớ ngày sinh nhật của tôi vào ngày 12/05/2024.",
+    "entities": [
+        [
+            28,
+            37,
+            "DATE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Chúng tôi có một cuộc họp vào ngày 27/07/2024.",
+    "entities": [
+        [
+            22,
+            31,
+            "DATE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Số điện thoại của tôi là 0987654321.",
+    "entities": [
+        [
+            20,
+            31,
+            "PHONE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Hãy liên hệ với chúng tôi qua số 0912 345 678.",
+    "entities": [
+        [
+            28,
+            40,
+            "PHONE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Bạn có thể gọi cho tôi theo số 0800-123-456.",
+    "entities": [
+        [
+            23,
+            36,
+            "PHONE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Số điện thoại hỗ trợ khách hàng là 1900 123 456.",
+    "entities": [
+        [
+            27,
+            39,
+            "PHONE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Cần gọi ngay theo số 0912345678 để được tư vấn.",
+    "entities": [
+        [
+            24,
+            35,
+            "PHONE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Số điện thoại liên lạc của văn phòng là 0225-123-456.",
+    "entities": [
+        [
+            33,
+            46,
+            "PHONE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Số máy lẻ 305 là số điện thoại của phòng hỗ trợ kỹ thuật.",
+    "entities": [
+        [
+            15,
+            23,
+            "PHONE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Để đặt hàng, gọi ngay 0800 234 567.",
+    "entities": [
+        [
+            18,
+            30,
+            "PHONE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Số điện thoại hỗ trợ khách hàng là 1900-112-233.",
+    "entities": [
+        [
+            28,
+            40,
+            "PHONE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Liên hệ qua số điện thoại 0981 234 567 để biết thêm chi tiết.",
+    "entities": [
+        [
+            24,
+            36,
+            "PHONE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Hội thảo về công nghệ thông tin sẽ diễn ra vào ngày 20/10/2024.",
+    "entities": [
+        [
+            0,
+            30,
+            "EVE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Festival âm nhạc quốc tế sẽ được tổ chức tại Hà Nội vào tháng tới.",
+    "entities": [
+        [
+            0,
+            33,
+            "EVE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Sự kiện ra mắt sản phẩm mới sẽ diễn ra vào ngày 15/11/2024.",
+    "entities": [
+        [
+            0,
+            28,
+            "EVE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Cuộc thi viết văn quốc gia sẽ tổ chức vào ngày 10/12/2024.",
+    "entities": [
+        [
+            0,
+            26,
+            "EVE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Triển lãm nghệ thuật sẽ khai mạc vào ngày 01/09/2024.",
+    "entities": [
+        [
+            0,
+            21,
+            "EVE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Lễ hội đường phố sẽ diễn ra vào cuối tuần này.",
+    "entities": [
+        [
+            0,
+            20,
+            "EVE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Đêm nhạc từ thiện sẽ tổ chức tại sân vận động vào ngày 30/08/2024.",
+    "entities": [
+        [
+            0,
+            20,
+            "EVE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Hội nghị khoa học quốc tế sẽ được tổ chức tại Tokyo vào tháng 11.",
+    "entities": [
+        [
+            0,
+            27,
+            "EVE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Sự kiện thể thao lớn nhất năm sẽ diễn ra vào ngày 25/12/2024.",
+    "entities": [
+        [
+            0,
+            29,
+            "EVE"
+        ]
+    ]
+}
+,
+{
+    "sentence": "Lễ trao giải sẽ bắt đầu vào lúc 19h00 ngày 12/11/2024.",
+    "entities": [
+        [
+            0,
+            15,
+            "EVE"
+        ]
+    ]
+}
+,
+{
+}
+,
+{
+}
+,
+{
+}
+,
+{
+}
+,
+{
+}
+,
+{
+}
+,
+{
+}
+,
+{
+}
+]
