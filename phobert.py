@@ -11,6 +11,14 @@ label_map = {label: i for i, label in enumerate(['O', 'PER', 'ORG', 'ADD', 'DATE
 
 # Step 1: Load data
 def load_data(file_path):
+    """
+
+    Args:
+      file_path:
+
+    Returns:
+
+    """
     with open(file_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
     return data
@@ -24,7 +32,7 @@ def preprocess_data(data):
         entities.append(item['entities'])
 
     df = pd.DataFrame({'sentence': sentences, 'entities': entities})
-    
+
     tokenized_sentences = []
     labels = []
 
@@ -41,7 +49,7 @@ def preprocess_data(data):
 
         tokenized_sentences.append(tokens)
         labels.append(label)
-    
+
     return tokenized_sentences, labels
 
 # Step 3: Convert to Dataset
@@ -51,12 +59,14 @@ def convert_to_dataset(sentences, labels, tokenizer, label_map):
     label_ids = []
 
     for i, sentence in enumerate(sentences):
-        encoding = tokenizer(sentence, is_split_into_words=True, padding='max_length', truncation=True, max_length=128, clean_up_tokenization_spaces=True)
+        encoding = tokenizer(sentence, is_split_into_words=True, padding='max_length', truncation=True, max_length=128)
         input_ids.append(encoding['input_ids'])
         attention_masks.append(encoding['attention_mask'])
 
         label_id = [label_map[label] for label in labels[i]]
-        label_id += [label_map['O']] * (128 - len(label_id))
+        # Truncate label_id if it exceeds the maximum length
+        label_id = label_id[:128]  # Truncate to 128
+        label_id += [label_map['O']] * (128 - len(label_id))  # Pad to 128
         label_ids.append(label_id)
 
     dataset = Dataset.from_dict({
@@ -73,7 +83,7 @@ def train_test_split_data(sentences, labels, test_size=0.2):
 
 def main():
     output_dir = r'D:\Kỳ_TT\results'
-    
+
     # Kiểm tra và tạo thư mục nếu chưa tồn tại
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)

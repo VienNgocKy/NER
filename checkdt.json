@@ -1,0 +1,4255 @@
+[
+    {
+        "sentence": "Ông Phạm Minh Chính, Thủ tướng Chính phủ Việt Nam, sẽ có buổi làm việc tại Hà Nội vào ngày 12/08/2024.",
+        "entities": [
+            {
+                "text": "Phạm Minh Chính",
+                "start": 4,
+                "end": 19,
+                "label": "PER"
+            },
+            {
+                "text": " Chính phủ Việt Nam",
+                "start": 30,
+                "end": 49,
+                "label": "ORG"
+            },
+            {
+                "text": " Hà Nội",
+                "start": 74,
+                "end": 81,
+                "label": "ADD"
+            },
+            {
+                "text": " 12/08/2024",
+                "start": 90,
+                "end": 101,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Bà Trương Thị Mai, giám đốc tại Công ty TNHH Thực phẩm A, sẽ tham gia hội nghị tại TP.HCM vào ngày 05/09/2024.",
+        "entities": [
+            {
+                "text": "Trương Thị Mai",
+                "start": 3,
+                "end": 17,
+                "label": "PER"
+            },
+            {
+                "text": " giám đốc",
+                "start": 18,
+                "end": 27,
+                "label": "PTL"
+            },
+            {
+                "text": " Công ty TNHH Thực phẩm ",
+                "start": 31,
+                "end": 55,
+                "label": "ORG"
+            },
+            {
+                "text": "TP.HCM",
+                "start": 83,
+                "end": 89,
+                "label": "LOC"
+            },
+            {
+                "text": "05/09/2024",
+                "start": 99,
+                "end": 109,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngày 01/01 là ngày đầu năm mới, các cửa hàng thường có chương trình khuyến mãi.",
+        "entities": [
+            {
+                "text": "Ngày 01/01",
+                "start": 0,
+                "end": 10,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Số điện thoại dịch vụ khách hàng của công ty là 1900 234 567.",
+        "entities": [
+            {
+                "text": " 1900 234 567",
+                "start": 47,
+                "end": 60,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Hội thảo về công nghệ thông tin sẽ diễn ra tại Trung tâm Hội nghị Quốc gia vào ngày 20/10/2024.",
+        "entities": [
+            {
+                "text": "Hội thảo về công nghệ thông tin",
+                "start": 0,
+                "end": 31,
+                "label": "EVE"
+            },
+            {
+                "text": " Trung tâm Hội nghị Quốc gia",
+                "start": 46,
+                "end": 74,
+                "label": "ORG"
+            },
+            {
+                "text": "20/10/2024",
+                "start": 84,
+                "end": 94,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Cuốn sách 'Kinh Tế Vĩ Mô' của tác giả Nguyễn Văn Phúc đang được bày bán tại các nhà sách.",
+        "entities": [
+            {
+                "text": "Cuốn sách 'Kinh Tế Vĩ Mô",
+                "start": 0,
+                "end": 24,
+                "label": "PRO"
+            },
+            {
+                "text": "tác giả",
+                "start": 30,
+                "end": 37,
+                "label": "PTL"
+            },
+            {
+                "text": "c giả Nguyễn Văn Phúc",
+                "start": 32,
+                "end": 53,
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "sentence": "Sản phẩm máy lọc nước của thương hiệu Pure Water đang được giảm giá tại siêu thị.",
+        "entities": [
+            {
+                "text": "Sản phẩm máy lọc nước ",
+                "start": 0,
+                "end": 22,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Ông Nguyễn Quốc Dũng, chuyên gia về tài chính, sẽ tổ chức lớp học tại Đại học Kinh tế TP.HCM vào ngày 15/11/2024.",
+        "entities": [
+            {
+                "text": "Nguyễn Quốc Dũng",
+                "start": 4,
+                "end": 20,
+                "label": "PER"
+            },
+            {
+                "text": "chuyên gia về tài chính",
+                "start": 22,
+                "end": 45,
+                "label": "SKILL"
+            },
+            {
+                "text": "tổ chức lớp học",
+                "start": 50,
+                "end": 65,
+                "label": "EVE"
+            },
+            {
+                "text": " Đại học Kinh tế TP.HC",
+                "start": 69,
+                "end": 91,
+                "label": "ORG"
+            },
+            {
+                "text": " 15/11/202",
+                "start": 101,
+                "end": 111,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Trung tâm Đào tạo Kỹ năng mềm tại Hà Nội đang mở khóa học về giao tiếp.",
+        "entities": [
+            {
+                "text": "Trung tâm Đào tạo Kỹ năng mềm",
+                "start": 0,
+                "end": 29,
+                "label": "ORG"
+            },
+            {
+                "text": "Hà Nội",
+                "start": 34,
+                "end": 40,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngày 25/12 là ngày lễ Giáng Sinh, các trung tâm thương mại thường có nhiều chương trình đặc biệt.",
+        "entities": [
+            {
+                "text": "Ngày 25/1",
+                "start": 0,
+                "end": 9,
+                "label": "DATE"
+            },
+            {
+                "text": " ngày lễ Giáng Sinh",
+                "start": 13,
+                "end": 32,
+                "label": "EVE"
+            }
+        ]
+    },
+    {
+        "sentence": "Số điện thoại của dịch vụ chăm sóc khách hàng là 028 1234 5678.",
+        "entities": [
+            {
+                "text": "028 1234 5678",
+                "start": 49,
+                "end": 62,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Công ty TNHH Đầu tư và Phát triển Công nghệ đang triển khai dự án mới tại Đà Nẵng.",
+        "entities": [
+            {
+                "text": "Công ty TNHH Đầu tư và Phát triển Công nghệ",
+                "start": 0,
+                "end": 43,
+                "label": "ORG"
+            },
+            {
+                "text": " Nẵng",
+                "start": 76,
+                "end": 81,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Bà Lê Thị Hồng, giáo viên tại Trường THPT Nguyễn Trãi, sẽ giảng bài về lịch sử vào ngày 30/09/2024.",
+        "entities": [
+            {
+                "text": "Lê Thị Hồng",
+                "start": 3,
+                "end": 14,
+                "label": "PER"
+            },
+            {
+                "text": "iáo viên ",
+                "start": 17,
+                "end": 26,
+                "label": "PTL"
+            },
+            {
+                "text": "Trường THPT Nguyễn Trãi",
+                "start": 30,
+                "end": 53,
+                "label": "ORG"
+            },
+            {
+                "text": "giảng bài về lịch sử",
+                "start": 58,
+                "end": 78,
+                "label": "EVE"
+            },
+            {
+                "text": "30/09/20",
+                "start": 88,
+                "end": 96,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Sản phẩm máy tính xách tay của Asus đang được giảm giá 20% tại các cửa hàng điện tử.",
+        "entities": [
+            {
+                "text": "Sản phẩm máy tính xách",
+                "start": 0,
+                "end": 22,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Website của Công ty Cổ phần Đầu tư X là https://www.investmentx.vn.",
+        "entities": [
+            {
+                "text": " Cổ phần Đầu tư X ",
+                "start": 19,
+                "end": 37,
+                "label": "ORG"
+            },
+            {
+                "text": "ttps://www.investmentx.vn",
+                "start": 41,
+                "end": 66,
+                "label": "URL"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngày 17/03 là ngày lễ Phục Sinh, sẽ có nhiều sự kiện được tổ chức tại các thành phố lớn.",
+        "entities": [
+            {
+                "text": "17/03",
+                "start": 5,
+                "end": 10,
+                "label": "DATE"
+            },
+            {
+                "text": "ngày lễ Phục Sinh",
+                "start": 14,
+                "end": 31,
+                "label": "EVE"
+            }
+        ]
+    },
+    {
+        "sentence": "Số lượng vé cho buổi hòa nhạc tại Nhà hát lớn Hà Nội đã bán hết.",
+        "entities": [
+            {
+                "text": "v",
+                "start": 9,
+                "end": 10,
+                "label": "PRO"
+            },
+            {
+                "text": "Nhà hát lớn Hà Nội",
+                "start": 34,
+                "end": 52,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Ông Hoàng Minh Cường và bà Nguyễn Thị Bình sẽ tham dự hội thảo về giáo dục tại Đại học Quốc gia TP.HCM.",
+        "entities": [
+            {
+                "text": "Hoàng Minh Cường",
+                "start": 4,
+                "end": 20,
+                "label": "PER"
+            },
+            {
+                "text": "Nguyễn Thị Bình",
+                "start": 27,
+                "end": 42,
+                "label": "PER"
+            },
+            {
+                "text": "hội thảo về giáo dụ",
+                "start": 54,
+                "end": 73,
+                "label": "EVE"
+            },
+            {
+                "text": " tại Đại học Quốc gia TP.HCM",
+                "start": 74,
+                "end": 102,
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "sentence": "Số điện thoại của Phòng khám Đa khoa ABC là 024 6789 1234.",
+        "entities": [
+            {
+                "text": "Phòng khám Đa khoa",
+                "start": 18,
+                "end": 36,
+                "label": "ORG"
+            },
+            {
+                "text": "024 6789 1234",
+                "start": 44,
+                "end": 57,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Cuốn sách 'Hướng Dẫn Du Lịch Việt Nam' của tác giả Lê Minh Tuấn rất được yêu thích.",
+        "entities": [
+            {
+                "text": "Cuốn sách 'Hướng Dẫn Du Lịch Việt Nam' ",
+                "start": 0,
+                "end": 39,
+                "label": "PRO"
+            },
+            {
+                "text": "tác giả",
+                "start": 43,
+                "end": 50,
+                "label": "PTL"
+            },
+            {
+                "text": "Lê Minh Tuấn",
+                "start": 51,
+                "end": 63,
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "sentence": "Trung tâm đào tạo kỹ năng lãnh đạo tại TP.HCM đang tuyển sinh khóa học mới.",
+        "entities": [
+            {
+                "text": "Trung tâm đào tạo kỹ năng lãnh đạ",
+                "start": 0,
+                "end": 33,
+                "label": "ORG"
+            },
+            {
+                "text": "TP.HCM",
+                "start": 39,
+                "end": 45,
+                "label": "ADD"
+            },
+            {
+                "text": "tuyển sinh",
+                "start": 51,
+                "end": 61,
+                "label": "EVE"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngày 08/05 là ngày kỷ niệm ngày Chiến thắng Điện Biên Phủ, với nhiều hoạt động văn hóa.",
+        "entities": [
+            {
+                "text": "Ngày 08/05",
+                "start": 0,
+                "end": 10,
+                "label": "DATE"
+            },
+            {
+                "text": "ngày kỷ niệm ngày Chiến thắng Điện Biên Phủ",
+                "start": 14,
+                "end": 57,
+                "label": "EVE"
+            }
+        ]
+    },
+    {
+        "sentence": "Số điện thoại của Trung tâm hỗ trợ kỹ thuật là 1800 234 567.",
+        "entities": [
+            {
+                "text": "Trung tâm hỗ trợ kỹ thuật",
+                "start": 18,
+                "end": 43,
+                "label": "ORG"
+            },
+            {
+                "text": "1800 234 567",
+                "start": 47,
+                "end": 59,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Công ty TNHH Dịch vụ Vận tải X có trang web là https://www.transportx.vn.",
+        "entities": [
+            {
+                "text": "Công ty TNH",
+                "start": 0,
+                "end": 11,
+                "label": "ORG"
+            },
+            {
+                "text": "https://www.transportx.vn",
+                "start": 47,
+                "end": 72,
+                "label": "URL"
+            }
+        ]
+    },
+    {
+        "sentence": "Ông Nguyễn Hải Đăng, nhà nghiên cứu nổi tiếng, sẽ có buổi thuyết trình tại Hội nghị khoa học vào ngày 30/11/2024.",
+        "entities": [
+            {
+                "text": "g Nguyễn Hải Đăng",
+                "start": 2,
+                "end": 19,
+                "label": "PER"
+            },
+            {
+                "text": "nhà nghiên cứu",
+                "start": 21,
+                "end": 35,
+                "label": "PTL"
+            },
+            {
+                "text": ", sẽ có buổi thuy",
+                "start": 45,
+                "end": 62,
+                "label": "EVE"
+            },
+            {
+                "text": "ình tại Hội nghị ",
+                "start": 67,
+                "end": 84,
+                "label": "LOC"
+            },
+            {
+                "text": "ào ngày 30",
+                "start": 94,
+                "end": 104,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngày 12/12 là ngày lễ Giáng Sinh, thường có nhiều sự kiện giảm giá tại các cửa hàng.",
+        "entities": [
+            {
+                "text": "Ngày 12/1",
+                "start": 0,
+                "end": 9,
+                "label": "DATE"
+            },
+            {
+                "text": " ngày lễ Giáng Sinh",
+                "start": 13,
+                "end": 32,
+                "label": "EVE"
+            }
+        ]
+    },
+    {
+        "sentence": "Sản phẩm điện thoại iPhone 14 đang được bán chạy tại các trung tâm điện máy.",
+        "entities": [
+            {
+                "text": "Sản phẩm điện thoại iPhone 14",
+                "start": 0,
+                "end": 29,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Website của Công ty Cổ phần Đầu tư ABC là https://www.abc-investment.vn.",
+        "entities": [
+            {
+                "text": "Công ty Cổ phần ",
+                "start": 12,
+                "end": 28,
+                "label": "ORG"
+            },
+            {
+                "text": "https://www.abc-investment.vn",
+                "start": 42,
+                "end": 71,
+                "label": "URL"
+            }
+        ]
+    },
+    {
+        "sentence": "Số điện thoại chăm sóc khách hàng của ngân hàng ABC là 1900 345 678.",
+        "entities": [
+            {
+                "text": "ngân hàng ABC",
+                "start": 38,
+                "end": 51,
+                "label": "ORG"
+            },
+            {
+                "text": "1900 345 678",
+                "start": 55,
+                "end": 67,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Bà Trần Thị Hương, giám đốc tại Ngân hàng Vietcombank, sẽ tham gia hội thảo vào ngày 19/12/2024.",
+        "entities": [
+            {
+                "text": "Trần Thị Hương",
+                "start": 3,
+                "end": 17,
+                "label": "PER"
+            },
+            {
+                "text": "giám đố",
+                "start": 19,
+                "end": 26,
+                "label": "PTL"
+            },
+            {
+                "text": " Ngân hàng Vietcomban",
+                "start": 31,
+                "end": 52,
+                "label": "ORG"
+            },
+            {
+                "text": "hội thảo",
+                "start": 67,
+                "end": 75,
+                "label": "EVE"
+            },
+            {
+                "text": "12/2024.",
+                "start": 88,
+                "end": 98,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngày 20/04 là ngày Quốc tế Lao động, có nhiều sự kiện được tổ chức trên toàn quốc.",
+        "entities": [
+            {
+                "text": "Ngày 20/04",
+                "start": 0,
+                "end": 10,
+                "label": "DATE"
+            },
+            {
+                "text": "ngày Quốc tế Lao động",
+                "start": 14,
+                "end": 35,
+                "label": "EVE"
+            }
+        ]
+    },
+    {
+        "sentence": "Số lượng hàng hóa nhập khẩu trong tháng qua đạt 2000 tấn.",
+        "entities": [
+            {
+                "text": "2000",
+                "start": 48,
+                "end": 52,
+                "label": "QUA"
+            }
+        ]
+    },
+    {
+        "sentence": "Trung tâm đào tạo kỹ năng nghề tại Hà Nội đang có chương trình khuyến mãi.",
+        "entities": [
+            {
+                "text": "Trung tâm đào tạo kỹ năng nghề",
+                "start": 0,
+                "end": 30,
+                "label": "ORG"
+            },
+            {
+                "text": " Hà Nội",
+                "start": 34,
+                "end": 41,
+                "label": "ADD"
+            },
+            {
+                "text": "chương trình khuyến mãi",
+                "start": 50,
+                "end": 73,
+                "label": "EVE"
+            }
+        ]
+    },
+    {
+        "sentence": "Cuốn sách 'Những Bí Mật Thành Công' của tác giả Đặng Thị Thu được bày bán tại các nhà sách.",
+        "entities": [
+            {
+                "text": "Cuốn sách 'Những Bí Mật Thành Công",
+                "start": 0,
+                "end": 34,
+                "label": "PRO"
+            },
+            {
+                "text": "tác giả",
+                "start": 40,
+                "end": 47,
+                "label": "PTL"
+            },
+            {
+                "text": "ặng Thị Thu",
+                "start": 49,
+                "end": 60,
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "sentence": "Số điện thoại hỗ trợ khách hàng của Phòng khám XYZ là 0908 765 432.",
+        "entities": [
+            {
+                "text": "0908 765 432.",
+                "start": 54,
+                "end": 67,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngày 10/10 là ngày Doanh nhân Việt Nam, nhiều doanh nghiệp tổ chức các sự kiện đặc biệt.",
+        "entities": [
+            {
+                "text": "Ngày 10/1",
+                "start": 0,
+                "end": 9,
+                "label": "DATE"
+            },
+            {
+                "text": " ngày Doanh nhân Việt Nam",
+                "start": 13,
+                "end": 38,
+                "label": "EVE"
+            }
+        ]
+    },
+    {
+        "sentence": "Trang web của Công ty TNHH Dịch vụ XYZ là https://www.xyzservice.vn.",
+        "entities": [
+            {
+                "text": "https://www.xyzservice.vn",
+                "start": 42,
+                "end": 67,
+                "label": "URL"
+            }
+        ]
+    },
+    {
+        "sentence": "Sản phẩm laptop Acer Aspire 7 đang được bán tại các cửa hàng điện tử.",
+        "entities": [
+            {
+                "text": "Sản phẩm laptop Acer Aspi",
+                "start": 0,
+                "end": 25,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngày 22/04 là ngày Trái đất, nhiều sự kiện bảo vệ môi trường được tổ chức.",
+        "entities": [
+            {
+                "text": "Ngày 22/04",
+                "start": 0,
+                "end": 10,
+                "label": "DATE"
+            },
+            {
+                "text": "ngày Trái đất",
+                "start": 14,
+                "end": 27,
+                "label": "EVE"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngân hàng VietinBank vừa công bố chương trình cho vay mới.",
+        "entities": [
+            {
+                "text": "Ngân hàng VietinBank",
+                "start": 0,
+                "end": 20,
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "sentence": "Hãng Electrolux vừa ra mắt sản phẩm máy giặt mới tại TP.HCM.",
+        "entities": [
+            {
+                "text": "Hãng Electrolux",
+                "start": 0,
+                "end": 15,
+                "label": "ORG"
+            },
+            {
+                "text": "máy giặt mới",
+                "start": 36,
+                "end": 48,
+                "label": "PRO"
+            },
+            {
+                "text": "P.HCM.",
+                "start": 54,
+                "end": 60,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Văn phòng Đăng ký Kinh doanh thành phố Hà Nội sẽ tổ chức buổi tư vấn vào ngày 25/12/2024.",
+        "entities": [
+            {
+                "text": "Văn phòng Đăng ký Kinh doanh ",
+                "start": 0,
+                "end": 29,
+                "label": "ORG"
+            },
+            {
+                "text": " phố Hà Nội ",
+                "start": 34,
+                "end": 46,
+                "label": "LOC"
+            },
+            {
+                "text": "5/12/2024.",
+                "start": 79,
+                "end": 89,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Công ty Cổ phần Đầu tư và Xây dựng Việt Nam đang triển khai dự án mới tại Đà Nẵng.",
+        "entities": [
+            {
+                "text": "Công ty Cổ phần Đầu tư và Xây dựng Việt Na",
+                "start": 0,
+                "end": 42,
+                "label": "ORG"
+            },
+            {
+                "text": " Đà Nẵng",
+                "start": 73,
+                "end": 81,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Số điện thoại của Công ty TNHH Dịch vụ Tư vấn Luật là 024 1234 5678.",
+        "entities": [
+            {
+                "text": "ty TNHH Dịch vụ Tư vấn Luật là 0",
+                "start": 23,
+                "end": 55,
+                "label": "ORG"
+            },
+            {
+                "text": "234",
+                "start": 59,
+                "end": 62,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Website của Công ty TNHH Đầu tư và Phát triển Công nghệ là https://www.techinvestment.vn.",
+        "entities": [
+            {
+                "text": "Công ty TNHH Đầu tư và Phát triển Công nghệ",
+                "start": 12,
+                "end": 55,
+                "label": "ORG"
+            },
+            {
+                "text": "https://www.techinvestment.vn",
+                "start": 59,
+                "end": 88,
+                "label": "URL"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngày 05/06 là ngày Quốc tế Môi trường, nhiều sự kiện bảo vệ môi trường được tổ chức.",
+        "entities": [
+            {
+                "text": "Ngày 05/06",
+                "start": 0,
+                "end": 10,
+                "label": "DATE"
+            },
+            {
+                "text": "ngày Quốc tế Môi trường",
+                "start": 14,
+                "end": 37,
+                "label": "EVE"
+            }
+        ]
+    },
+    {
+        "sentence": "Ông Nguyễn Văn A, giám đốc tại Công ty Cổ phần Thực phẩm ABC, sẽ tham gia hội thảo vào ngày 29/09/2024.",
+        "entities": [
+            {
+                "text": " Nguyễn Văn A",
+                "start": 3,
+                "end": 16,
+                "label": "PER"
+            },
+            {
+                "text": "giám đốc",
+                "start": 18,
+                "end": 26,
+                "label": "PTL"
+            },
+            {
+                "text": "Công ty Cổ phần Thực phẩm ABC",
+                "start": 31,
+                "end": 60,
+                "label": "ORG"
+            },
+            {
+                "text": "ội thảo ",
+                "start": 75,
+                "end": 83,
+                "label": "EVE"
+            },
+            {
+                "text": "29/09/2024",
+                "start": 92,
+                "end": 102,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Cuốn sách 'Bí Quyết Thành Công' của tác giả Mai Thị Thanh đang được bán tại các nhà sách.",
+        "entities": [
+            {
+                "text": "Cuốn sách 'Bí Quyết Thành Công",
+                "start": 0,
+                "end": 30,
+                "label": "PRO"
+            },
+            {
+                "text": "Mai Thị Thanh",
+                "start": 44,
+                "end": 57,
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "sentence": "Số điện thoại của Phòng khám Đa khoa XYZ là 024 9876 5432.",
+        "entities": [
+            {
+                "text": " Phòng khám Đa kho",
+                "start": 17,
+                "end": 35,
+                "label": "ORG"
+            },
+            {
+                "text": "024 9876 543",
+                "start": 44,
+                "end": 56,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Website của Công ty TNHH Dịch vụ Tư vấn Tài chính là https://www.financeconsult.vn.",
+        "entities": [
+            {
+                "text": "Công ty TNHH Dịch vụ Tư vấn Tài chính",
+                "start": 12,
+                "end": 49,
+                "label": "ORG"
+            },
+            {
+                "text": "https://www.financeconsult.vn",
+                "start": 53,
+                "end": 82,
+                "label": "URL"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngày 01/11 là ngày Lễ Cúng Tổ, thường có nhiều hoạt động văn hóa diễn ra.",
+        "entities": [
+            {
+                "text": "Ngày 01/11",
+                "start": 0,
+                "end": 10,
+                "label": "DATE"
+            },
+            {
+                "text": " ngày Lễ Cúng T",
+                "start": 13,
+                "end": 28,
+                "label": "EVE"
+            }
+        ]
+    },
+    {
+        "sentence": "Sản phẩm máy ảnh Canon EOS 5D đang được khuyến mãi tại các cửa hàng điện tử.",
+        "entities": [
+            {
+                "text": "Sản phẩm máy ảnh Canon EOS 5D",
+                "start": 0,
+                "end": 29,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Trang web của Công ty Cổ phần Đầu tư X là https://www.investmentx.vn.",
+        "entities": [
+            {
+                "text": "https://www.investmentx.vn",
+                "start": 42,
+                "end": 68,
+                "label": "URL"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngày 18/06 là ngày Quốc tế Yoga, nhiều sự kiện thể thao được tổ chức.",
+        "entities": [
+            {
+                "text": "18/06",
+                "start": 5,
+                "end": 10,
+                "label": "DATE"
+            },
+            {
+                "text": " ngày Quốc tế Yoga",
+                "start": 13,
+                "end": 31,
+                "label": "EVE"
+            }
+        ]
+    },
+    {
+        "sentence": "Ông An, giám đốc tại Ngân hàng BIDV, sẽ có bài phát biểu tại hội nghị vào ngày mai.",
+        "entities": [
+            {
+                "text": "Ông A",
+                "start": 0,
+                "end": 5,
+                "label": "PER"
+            },
+            {
+                "text": "giám đốc",
+                "start": 8,
+                "end": 16,
+                "label": "PTL"
+            },
+            {
+                "text": "ân hàng BIDV",
+                "start": 23,
+                "end": 35,
+                "label": "ORG"
+            },
+            {
+                "text": "hội nghị",
+                "start": 61,
+                "end": 69,
+                "label": "EVE"
+            },
+            {
+                "text": "ngày mai.",
+                "start": 74,
+                "end": 86,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Số lượng giày dép tiêu thụ trong tháng vừa qua đạt 5000 đơn vị.",
+        "entities": [
+            {
+                "text": "giày dép",
+                "start": 9,
+                "end": 17,
+                "label": "PRO"
+            },
+            {
+                "text": "5000",
+                "start": 51,
+                "end": 55,
+                "label": "QUA"
+            }
+        ]
+    },
+    {
+        "sentence": "Trung tâm đào tạo kỹ năng mềm tại TP.HCM đang mở lớp học mới.",
+        "entities": [
+            {
+                "text": "Trung tâm đào tạo kỹ năng mềm",
+                "start": 0,
+                "end": 29,
+                "label": "ORG"
+            },
+            {
+                "text": "TP.HCM đang ",
+                "start": 34,
+                "end": 46,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngày hôm nay là ngày Lễ Tình nhân, nhiều cửa hàng có chương trình giảm giá.",
+        "entities": [
+            {
+                "text": "Ngày hôm nay",
+                "start": 0,
+                "end": 12,
+                "label": "DATE"
+            },
+            {
+                "text": "ngày Lễ Tình nhân",
+                "start": 16,
+                "end": 33,
+                "label": "EVE"
+            },
+            {
+                "text": "cửa hàng",
+                "start": 41,
+                "end": 49,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Tác phẩm 'Phát Triển Bản Thân' của họa sĩ Nam CAO rất được ưa chuộng.",
+        "entities": [
+            {
+                "text": "Tác phẩm 'Phát Triển Bản Thân'",
+                "start": 0,
+                "end": 30,
+                "label": "PRO"
+            },
+            {
+                "text": "họa sĩ",
+                "start": 35,
+                "end": 41,
+                "label": "PTL"
+            },
+            {
+                "text": "Nam CAO",
+                "start": 42,
+                "end": 49,
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "sentence": "Anh Văn là trưởng phòng kế hoạch tại Công ty vận chuyển Sông Đà, địa chỉ 123 Đường Lê Văn Sỹ, TP.HCM. Liên Hệ 0912345678",
+        "entities": [
+            {
+                "text": "Anh Văn",
+                "start": 0,
+                "end": 7,
+                "label": "PER"
+            },
+            {
+                "text": "trưởng phòng kế hoạch",
+                "start": 11,
+                "end": 32,
+                "label": "PTL"
+            },
+            {
+                "text": "Công ty vận chuyển Sông Đà",
+                "start": 37,
+                "end": 63,
+                "label": "ORG"
+            },
+            {
+                "text": "địa chỉ 123 Đường Lê Văn Sỹ, TP.HCM",
+                "start": 65,
+                "end": 100,
+                "label": "ADD"
+            },
+            {
+                "text": "0912345678",
+                "start": 110,
+                "end": 120,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Trung tâm dạy tiếng Anh English Center tại Hà Nội có nhiều khóa học chất lượng. Trang web của trung tâm là https://www.englishcenter.vn.",
+        "entities": [
+            {
+                "text": "Trung tâm dạy tiếng Anh English Center",
+                "start": 0,
+                "end": 38,
+                "label": "ORG"
+            },
+            {
+                "text": "Nội có nhiều kh",
+                "start": 46,
+                "end": 61,
+                "label": "ADD"
+            },
+            {
+                "text": "của trung tâm là https://www",
+                "start": 90,
+                "end": 118,
+                "label": "URL"
+            }
+        ]
+    },
+    {
+        "sentence": "Nếu bạn cần liên lạc với công an, hãy gọi ngay đến số 113.",
+        "entities": [
+            {
+                "text": "ông an,",
+                "start": 26,
+                "end": 33,
+                "label": "ORG"
+            },
+            {
+                "text": "nga",
+                "start": 42,
+                "end": 45,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Trong trường hợp khẩn cấp cần xe cấp cứu, hãy gọi số 115.",
+        "entities": [
+            {
+                "text": "u, hãy g",
+                "start": 39,
+                "end": 47,
+                "label": "ORG"
+            },
+            {
+                "text": " số",
+                "start": 49,
+                "end": 52,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Để báo cháy, hãy liên lạc với đội cứu hỏa qua số 114.",
+        "entities": [
+            {
+                "text": "i đội cứu ",
+                "start": 28,
+                "end": 38,
+                "label": "ORG"
+            },
+            {
+                "text": " số",
+                "start": 45,
+                "end": 48,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Nếu xe bạn bị hỏng trên đường cao tốc, hãy gọi số 116 để được hỗ trợ.",
+        "entities": [
+            {
+                "text": " cao tốc, hãy g",
+                "start": 29,
+                "end": 44,
+                "label": "ADD"
+            },
+            {
+                "text": "16 ",
+                "start": 51,
+                "end": 54,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Đường dây nóng hỗ trợ y tế hoạt động 24/7 có thể được gọi qua số 117.",
+        "entities": [
+            {
+                "text": "Đường dây nóng hỗ trợ y",
+                "start": 0,
+                "end": 23,
+                "label": "ORG"
+            },
+            {
+                "text": "7.",
+                "start": 67,
+                "end": 70,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngày 14/02 là ngày lễ tình nhân được tổ chức ở nhiều quốc gia. Trong năm nay, nhiều sự kiện đặc biệt sẽ được tổ chức tại TP.HCM.",
+        "entities": [
+            {
+                "text": "Ngày 14/02",
+                "start": 0,
+                "end": 10,
+                "label": "DATE"
+            },
+            {
+                "text": "ức ở nhiều quốc gia.",
+                "start": 42,
+                "end": 62,
+                "label": "EVE"
+            },
+            {
+                "text": "ăm nay,",
+                "start": 70,
+                "end": 77,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Hội thảo về công nghệ thông tin tại Đại học Bách Khoa TP.HCM sẽ diễn ra vào ngày 20/11/2024.",
+        "entities": [
+            {
+                "text": "Hội thảo về công nghệ thông tin",
+                "start": 0,
+                "end": 31,
+                "label": "EVE"
+            },
+            {
+                "text": " Đại học Bách Khoa ",
+                "start": 35,
+                "end": 54,
+                "label": "ORG"
+            },
+            {
+                "text": "20/11/2024",
+                "start": 81,
+                "end": 91,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Nhà máy Samsung tại Thái Nguyên đang mở rộng sản xuất. Số điện thoại liên hệ là 1800 588 889.",
+        "entities": [
+            {
+                "text": "Nhà máy Samsung",
+                "start": 0,
+                "end": 15,
+                "label": "ORG"
+            },
+            {
+                "text": "Thái Nguyê",
+                "start": 20,
+                "end": 30,
+                "label": "ADD"
+            },
+            {
+                "text": "1800 588 889",
+                "start": 80,
+                "end": 92,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "MR.Mai, bộ trưởng Bộ Lao động Thương binh và Xã hội, đã phát biểu tại hội nghị quốc tế về phát triển bền vững tại Hà Nội.",
+        "entities": [
+            {
+                "text": "MR.Ma",
+                "start": 0,
+                "end": 5,
+                "label": "PER"
+            },
+            {
+                "text": "bộ trưởng",
+                "start": 8,
+                "end": 17,
+                "label": "PTL"
+            },
+            {
+                "text": "Bộ Lao động Thương binh và Xã hộ",
+                "start": 18,
+                "end": 50,
+                "label": "ORG"
+            },
+            {
+                "text": "hội nghị quốc tế",
+                "start": 70,
+                "end": 86,
+                "label": "EVE"
+            },
+            {
+                "text": "i Hà Nộ",
+                "start": 112,
+                "end": 119,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Mời bạn tham gia lớp học nấu ăn tại Trung tâm dạy nghề Hà Nội. Khóa học có giá 1.500.000 VNĐ.",
+        "entities": [
+            {
+                "text": "nấu ă",
+                "start": 25,
+                "end": 30,
+                "label": "SKILL"
+            },
+            {
+                "text": "ăn tại Trung tâm dạy nghề ",
+                "start": 29,
+                "end": 55,
+                "label": "ORG"
+            },
+            {
+                "text": "1.500.000 VN",
+                "start": 79,
+                "end": 91,
+                "label": "QUA"
+            }
+        ]
+    },
+    {
+        "sentence": "Địa chỉ IP của server là 192.168.1.1. Trung tâm dữ liệu nằm tại Đà Nẵng.",
+        "entities": [
+            {
+                "text": "192.168.1.1",
+                "start": 25,
+                "end": 36,
+                "label": "IP"
+            },
+            {
+                "text": "Trung tâm dữ liệu",
+                "start": 38,
+                "end": 55,
+                "label": "ORG"
+            },
+            {
+                "text": "Đà Nẵng.",
+                "start": 64,
+                "end": 72,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngày kia Lâm có một tiết học ca hát tại Cơ sở 1.",
+        "entities": [
+            {
+                "text": "Ngày kia",
+                "start": 0,
+                "end": 8,
+                "label": "DATE"
+            },
+            {
+                "text": "Lâm",
+                "start": 9,
+                "end": 12,
+                "label": "PER"
+            },
+            {
+                "text": "tiết học",
+                "start": 20,
+                "end": 28,
+                "label": "EVE"
+            },
+            {
+                "text": "ca hát",
+                "start": 29,
+                "end": 35,
+                "label": "SKILL"
+            },
+            {
+                "text": "Cơ sở 1",
+                "start": 40,
+                "end": 47,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Công ty VinGroup đang phát triển một dự án mới về bất động sản tại Hà Giang. Hãy truy cập trang web https://www.vingroup.net để biết thêm thông tin.",
+        "entities": [
+            {
+                "text": "Công ty VinGroup",
+                "start": 0,
+                "end": 16,
+                "label": "ORG"
+            },
+            {
+                "text": "à Giang",
+                "start": 68,
+                "end": 75,
+                "label": "ADD"
+            },
+            {
+                "text": "https://www.vingroup.net",
+                "start": 100,
+                "end": 124,
+                "label": "URL"
+            }
+        ]
+    },
+    {
+        "sentence": "Chị Nguyễn Thị Bích, chuyên gia tư vấn tài chính, sẽ có buổi làm việc tại Văn phòng Deloitte vào ngày 12-07-2024.",
+        "entities": [
+            {
+                "text": " Nguyễn Thị Bích",
+                "start": 3,
+                "end": 19,
+                "label": "PER"
+            },
+            {
+                "text": "tư vấn tài chính",
+                "start": 32,
+                "end": 48,
+                "label": "SKILL"
+            },
+            {
+                "text": "Văn phòng Deloitte",
+                "start": 74,
+                "end": 92,
+                "label": "ORG"
+            },
+            {
+                "text": "12-07-2024",
+                "start": 102,
+                "end": 112,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Hội thảo về kỹ năng mềm sẽ được tổ chức tại Trung tâm Hội nghị Quốc gia vào ngày 30/08.",
+        "entities": [
+            {
+                "text": "Hội thảo về kỹ năng mềm",
+                "start": 0,
+                "end": 23,
+                "label": "EVE"
+            },
+            {
+                "text": "kỹ năng mềm",
+                "start": 12,
+                "end": 23,
+                "label": "SKILL"
+            },
+            {
+                "text": "Trung tâm Hội nghị Quốc gia",
+                "start": 44,
+                "end": 71,
+                "label": "ADD"
+            },
+            {
+                "text": "30/08",
+                "start": 81,
+                "end": 86,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Số lượng vé còn lại cho buổi hòa nhạc là 50 chiếc.",
+        "entities": [
+            {
+                "text": "vé",
+                "start": 9,
+                "end": 11,
+                "label": "PRO"
+            },
+            {
+                "text": "50",
+                "start": 41,
+                "end": 43,
+                "label": "QUA"
+            }
+        ]
+    },
+    {
+        "sentence": "Công ty cổ phần Dược phẩm XYZ có văn phòng tại số 20 Đường Nguyễn Trãi, Hà Nội.",
+        "entities": [
+            {
+                "text": "Công ty cổ phần Dược phẩ",
+                "start": 0,
+                "end": 24,
+                "label": "ORG"
+            },
+            {
+                "text": "Dược phẩm",
+                "start": 16,
+                "end": 25,
+                "label": "PRO"
+            },
+            {
+                "text": "20 Đường Nguyễn Trãi, Hà Nội",
+                "start": 50,
+                "end": 78,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Sự kiện tri ân khách hàng của ngân hàng BIDV sẽ diễn ra vào ngày 25/12/2024 tại Hội An.",
+        "entities": [
+            {
+                "text": "Sự kiện tri ân khách hàng của",
+                "start": 0,
+                "end": 29,
+                "label": "EVE"
+            },
+            {
+                "text": "ngân hàng BIDV",
+                "start": 30,
+                "end": 44,
+                "label": "ORG"
+            },
+            {
+                "text": "25/12/2024",
+                "start": 65,
+                "end": 75,
+                "label": "DATE"
+            },
+            {
+                "text": "Hội An",
+                "start": 80,
+                "end": 86,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Trung tâm phát triển kỹ năng nghề nghiệp tại Lào Cai mới mở thêm khóa học kỹ thuật Ô tô.",
+        "entities": [
+            {
+                "text": "Trung tâm phát triển kỹ năng nghề nghiệp",
+                "start": 0,
+                "end": 40,
+                "label": "ORG"
+            },
+            {
+                "text": "Lào Ca",
+                "start": 45,
+                "end": 51,
+                "label": "ADD"
+            },
+            {
+                "text": "kỹ thuật Ô tô",
+                "start": 74,
+                "end": 87,
+                "label": "SKILL"
+            },
+            {
+                "text": "Ô tô",
+                "start": 83,
+                "end": 87,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Sản phẩm mới của LG Electronics được giới thiệu tại triển lãm công nghệ ở Hà Nội.",
+        "entities": [
+            {
+                "text": "LG Electronics",
+                "start": 17,
+                "end": 31,
+                "label": "PRO"
+            },
+            {
+                "text": "triển lãm công nghệ",
+                "start": 52,
+                "end": 71,
+                "label": "EVE"
+            },
+            {
+                "text": "Hà Nội",
+                "start": 74,
+                "end": 80,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Website của Trường Đại học Y Dược TP.HCM là https://www.hump.edu.vn.",
+        "entities": [
+            {
+                "text": "Trường Đại học Y Dược",
+                "start": 12,
+                "end": 33,
+                "label": "LOC"
+            },
+            {
+                "text": "https://www.hump.edu.vn",
+                "start": 44,
+                "end": 67,
+                "label": "URL"
+            }
+        ]
+    },
+    {
+        "sentence": "Số điện thoại hỗ trợ khách hàng của công ty Giao Hàng Tiết Kiệm là 1800 123 456.",
+        "entities": [
+            {
+                "text": "công ty Giao Hàng Tiết Kiệm",
+                "start": 36,
+                "end": 63,
+                "label": "ORG"
+            },
+            {
+                "text": "1800 123 456",
+                "start": 67,
+                "end": 79,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Chương trình đào tạo về lập trình tại Học viện Công nghệ Bưu chính Viễn thông sẽ bắt đầu vào ngày 15/09/2024.",
+        "entities": [
+            {
+                "text": "Chương trình đào tạo về lập trình",
+                "start": 0,
+                "end": 33,
+                "label": "EVE"
+            },
+            {
+                "text": "lập trình",
+                "start": 24,
+                "end": 33,
+                "label": "SKILL"
+            },
+            {
+                "text": "Học viện Công nghệ Bưu chính Viễn thông",
+                "start": 38,
+                "end": 77,
+                "label": "ORG"
+            },
+            {
+                "text": "15/09/2024",
+                "start": 98,
+                "end": 108,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Tượng đài Hồ Chí Minh tại Cầu Giấy là điểm du lịch nổi tiếng của thành phố.",
+        "entities": [
+            {
+                "text": "Tượng đài Hồ Chí Minh",
+                "start": 0,
+                "end": 21,
+                "label": "LOC"
+            },
+            {
+                "text": "Cầu Giấy",
+                "start": 26,
+                "end": 34,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Hội thảo về khởi nghiệp sẽ được tổ chức tại Hội trường Đại học Kinh tế Quốc dân",
+        "entities": [
+            {
+                "text": "Hội thảo về khởi nghiệp",
+                "start": 0,
+                "end": 23,
+                "label": "EVE"
+            },
+            {
+                "text": "Hội trường Đại học Kinh tế Quốc dân",
+                "start": 44,
+                "end": 79,
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "sentence": "Lịch trình của tour du lịch Hà Nội - Sapa - Hạ Long được công bố trên trang web chính thức https://www.tourdulich.vn.",
+        "entities": [
+            {
+                "text": "tour du lịch",
+                "start": 15,
+                "end": 27,
+                "label": "EVE"
+            },
+            {
+                "text": " - Sap",
+                "start": 34,
+                "end": 40,
+                "label": "LOC"
+            },
+            {
+                "text": "Sapa",
+                "start": 37,
+                "end": 41,
+                "label": "LOC"
+            },
+            {
+                "text": "Hạ Long",
+                "start": 44,
+                "end": 51,
+                "label": "LOC"
+            },
+            {
+                "text": "https://www.tourdulich.vn",
+                "start": 91,
+                "end": 116,
+                "label": "URL"
+            }
+        ]
+    },
+    {
+        "sentence": "Địa chỉ email liên hệ của công ty A là contact@yahool.com.vn.",
+        "entities": [
+            {
+                "text": "contact@yahool.com.vn",
+                "start": 39,
+                "end": 60,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "sentence": "Sự kiện triển lãm ô tô tại TP.HG dự kiến sẽ thu hút hơn 10.000 khách tham dự.",
+        "entities": [
+            {
+                "text": "Sự kiện triển lãm ô tô",
+                "start": 0,
+                "end": 22,
+                "label": "EVE"
+            },
+            {
+                "text": "TP.HG",
+                "start": 27,
+                "end": 32,
+                "label": "ADD"
+            },
+            {
+                "text": "10.000",
+                "start": 56,
+                "end": 62,
+                "label": "QUA"
+            },
+            {
+                "text": "khách tham dự",
+                "start": 63,
+                "end": 76,
+                "label": "PTL"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngày 08/03 là ngày Quốc tế Phụ nữ, được tổ chức tại nhiều địa phương trên toàn quốc.",
+        "entities": [
+            {
+                "text": "Ngày 08/03",
+                "start": 0,
+                "end": 10,
+                "label": "DATE"
+            },
+            {
+                "text": "địa phương trên toàn quốc",
+                "start": 58,
+                "end": 83,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Cuộc họp giữa Tổng giám đốc Tập đoàn Dầu khí Việt Nam và các đối tác quốc tế sẽ diễn ra tại Hà Nội vào lúc 10:00am.",
+        "entities": [
+            {
+                "text": "Cuộc họp",
+                "start": 0,
+                "end": 8,
+                "label": "EVE"
+            },
+            {
+                "text": "Tổng giám đốc",
+                "start": 14,
+                "end": 27,
+                "label": "PTL"
+            },
+            {
+                "text": "Tập đoàn Dầu khí Việt Nam",
+                "start": 28,
+                "end": 53,
+                "label": "ORG"
+            },
+            {
+                "text": "đối tác quốc tế",
+                "start": 61,
+                "end": 76,
+                "label": "PTL"
+            },
+            {
+                "text": "10:00am",
+                "start": 107,
+                "end": 114,
+                "label": "TIME"
+            }
+        ]
+    },
+    {
+        "sentence": "Số lượng sách bán ra trong tháng qua là 2.000 cuốn.",
+        "entities": [
+            {
+                "text": "sách",
+                "start": 9,
+                "end": 13,
+                "label": "PRO"
+            },
+            {
+                "text": "2.000",
+                "start": 40,
+                "end": 45,
+                "label": "QUA"
+            }
+        ]
+    },
+    {
+        "sentence": "Trung tâm phát triển công nghệ thông tin tại Đà Nẵng bắt đầu lúc 14:00.",
+        "entities": [
+            {
+                "text": "Trung tâm phát triển công nghệ thông tin",
+                "start": 0,
+                "end": 40,
+                "label": "ORG"
+            },
+            {
+                "text": "Đà Nẵng",
+                "start": 45,
+                "end": 52,
+                "label": "ADD"
+            },
+            {
+                "text": "14:00",
+                "start": 65,
+                "end": 70,
+                "label": "TIME"
+            }
+        ]
+    },
+    {
+        "sentence": "Số điện thoại của Trung tâm Y tế dự phòng Hà Nội là 024 3825 2xxx, hoạt động 24h/7.",
+        "entities": [
+            {
+                "text": "Trung tâm Y tế dự phòng Hà Nội",
+                "start": 18,
+                "end": 48,
+                "label": "ORG"
+            },
+            {
+                "text": "024 3825 2xxx",
+                "start": 52,
+                "end": 65,
+                "label": "PHONE"
+            },
+            {
+                "text": "24h/7",
+                "start": 77,
+                "end": 82,
+                "label": "TIME"
+            }
+        ]
+    },
+    {
+        "sentence": "Đại hội Olympic diễn ra từ ngày 1/2/2024 đến 21/2/2024.",
+        "entities": [
+            {
+                "text": "Đại hội Olympic",
+                "start": 0,
+                "end": 15,
+                "label": "ORG"
+            },
+            {
+                "text": "2024 đến ",
+                "start": 36,
+                "end": 45,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Sự kiện hội nghị toàn quốc về phát triển du lịch tổ chức tại Hội An sẽ bắt đầu vào lúc 8H00 ngày 09/10/2024.",
+        "entities": [
+            {
+                "text": "Sự kiện hội nghị toàn quốc về phát triển du lịch",
+                "start": 0,
+                "end": 48,
+                "label": "EVE"
+            },
+            {
+                "text": "Hội An",
+                "start": 61,
+                "end": 67,
+                "label": "LOC"
+            },
+            {
+                "text": "8H00",
+                "start": 87,
+                "end": 91,
+                "label": "TIME"
+            },
+            {
+                "text": "ngày 09/10/2024",
+                "start": 92,
+                "end": 107,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "HN đã khai giảng lớp đại học từ xa khoa Xã hội và Nhân văn đầu tiên cho học viên, người sau cai nghiện và một số cán bộ, công nhân viên các trung tâm giáo dục dạy nghề của thành phố.",
+        "entities": [
+            {
+                "text": "H",
+                "start": 0,
+                "end": 1,
+                "label": "ADD"
+            },
+            {
+                "text": "khai giảng",
+                "start": 6,
+                "end": 16,
+                "label": "EVE"
+            },
+            {
+                "text": "đại học",
+                "start": 21,
+                "end": 28,
+                "label": "SKILL"
+            },
+            {
+                "text": "khoa Xã hội và Nhân văn",
+                "start": 35,
+                "end": 58,
+                "label": "ORG"
+            },
+            {
+                "text": "học viên",
+                "start": 72,
+                "end": 80,
+                "label": "PTL"
+            },
+            {
+                "text": "người sau cai nghiện",
+                "start": 82,
+                "end": 102,
+                "label": "PTL"
+            },
+            {
+                "text": "một số",
+                "start": 106,
+                "end": 112,
+                "label": "QUA"
+            },
+            {
+                "text": "cán bộ",
+                "start": 113,
+                "end": 119,
+                "label": "PTL"
+            }
+        ]
+    },
+    {
+        "sentence": "Lớp học, được đào tạo theo chế độ tín chỉ, gồm 169 sinh viên, trong đó có 47 học viên sau cai nghiện.",
+        "entities": [
+            {
+                "text": "gồm 169",
+                "start": 43,
+                "end": 50,
+                "label": "QUA"
+            },
+            {
+                "text": "sinh viên",
+                "start": 51,
+                "end": 60,
+                "label": "PTL"
+            },
+            {
+                "text": "4",
+                "start": 74,
+                "end": 75,
+                "label": "QUA"
+            },
+            {
+                "text": "học viên",
+                "start": 77,
+                "end": 85,
+                "label": "PTL"
+            }
+        ]
+    },
+    {
+        "sentence": "Các sinh viên sẽ học tập trung mỗi tuần 2 ngày, thời gian còn lại là tự nghiên cứu.",
+        "entities": [
+            {
+                "text": "sinh viên",
+                "start": 4,
+                "end": 13,
+                "label": "PTL"
+            },
+            {
+                "text": "mỗi tuần 2 ngày",
+                "start": 31,
+                "end": 46,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Ông Trần Trung Dũng - Phó Giám đốc Sở Lao động-Thương binh-Xã hội Thành phố Hồ Chí Minh - cho biết:",
+        "entities": [
+            {
+                "text": "Trần Trung Dũng",
+                "start": 4,
+                "end": 19,
+                "label": "PER"
+            },
+            {
+                "text": "Phó Giám đốc",
+                "start": 22,
+                "end": 34,
+                "label": "PTL"
+            },
+            {
+                "text": "Sở Lao động-Thương binh-Xã hội Thành phố Hồ Chí Minh",
+                "start": 35,
+                "end": 87,
+                "label": "ORG"
+            },
+            {
+                "text": "Thành phố Hồ Chí Minh",
+                "start": 66,
+                "end": 87,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Thời gian qua, các trường, trung tâm đã tổ chức cho 11.500 học viên và người sau cai nghiện theo học các lớp bổ túc văn hóa từ xóa mù chữ đến trung học phổ thông và đã cơ bản hoàn thành công tác xóa mù chữ đối với người sau cai nghiện tại các đơn vị.",
+        "entities": [
+            {
+                "text": "trường",
+                "start": 19,
+                "end": 25,
+                "label": "ORG"
+            },
+            {
+                "text": "ung tâm",
+                "start": 29,
+                "end": 36,
+                "label": "ORG"
+            },
+            {
+                "text": "11.500",
+                "start": 52,
+                "end": 58,
+                "label": "QUA"
+            }
+        ]
+    },
+    {
+        "sentence": "Tăng lượng hàng dịp 30-4 Ngày Lao Động(NLĐ)- Dự đoán mãi lực bán buôn dịp 30-4 sẽ tăng.",
+        "entities": [
+            {
+                "text": " La",
+                "start": 29,
+                "end": 32,
+                "label": "DATE"
+            },
+            {
+                "text": "30-4",
+                "start": 20,
+                "end": 24,
+                "label": "DATE"
+            },
+            {
+                "text": "Ngày Lao Động(NLĐ)",
+                "start": 25,
+                "end": 43,
+                "label": "EVE"
+            },
+            {
+                "text": "",
+                "start": 95,
+                "end": 103,
+                "label": "ORG"
+            },
+            {
+                "text": " dịp 30-",
+                "start": 69,
+                "end": 77,
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "sentence": "Các siêu thị thuộc hệ thống Co.opMart, Maximark, Circler-K, Metro... chuẩn bị nguồn hàng tăng khoảng 20%-50% so với ngày thường.",
+        "entities": [
+            {
+                "text": "Các siêu thị",
+                "start": 0,
+                "end": 12,
+                "label": "ORG"
+            },
+            {
+                "text": "hệ thống",
+                "start": 19,
+                "end": 27,
+                "label": "ORG"
+            },
+            {
+                "text": "Co.opMart",
+                "start": 28,
+                "end": 37,
+                "label": "ORG"
+            },
+            {
+                "text": "Maximark",
+                "start": 39,
+                "end": 47,
+                "label": "ORG"
+            },
+            {
+                "text": "Circler-K",
+                "start": 49,
+                "end": 58,
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "sentence": "Lượng hàng tăng chủ yếu tập trung vào những mặt hàng ăn uống như thực phẩm tươi sống, thực phẩm chế biến sẵn, hàng đông lạnh, rau củ quả, nước giải khát...",
+        "entities": [
+            {
+                "text": "mặt hàng ăn uống",
+                "start": 44,
+                "end": 60,
+                "label": "PRO"
+            },
+            {
+                "text": "thực phẩm tươi sống",
+                "start": 65,
+                "end": 84,
+                "label": "PRO"
+            },
+            {
+                "text": "ực phẩm chế biến sẵn",
+                "start": 88,
+                "end": 108,
+                "label": "PRO"
+            },
+            {
+                "text": "hàng đông lạnh",
+                "start": 110,
+                "end": 124,
+                "label": "PRO"
+            },
+            {
+                "text": "rau củ quả",
+                "start": 126,
+                "end": 136,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Theo các đơn vị, giá một số loại thủy hải sản, thực phẩm tươi sống như tôm, cá, mực, thịt bò... có khả năng tăng giá nhẹ.",
+        "entities": [
+            {
+                "text": "thủy hải sản",
+                "start": 33,
+                "end": 45,
+                "label": "PRO"
+            },
+            {
+                "text": "thực phẩm tươi sống",
+                "start": 47,
+                "end": 66,
+                "label": "PRO"
+            },
+            {
+                "text": "ản,",
+                "start": 43,
+                "end": 46,
+                "label": "PRO"
+            },
+            {
+                "text": "tôm",
+                "start": 71,
+                "end": 74,
+                "label": "PRO"
+            },
+            {
+                "text": "cá",
+                "start": 76,
+                "end": 78,
+                "label": "PRO"
+            },
+            {
+                "text": " mự",
+                "start": 79,
+                "end": 82,
+                "label": "PRO"
+            },
+            {
+                "text": " thịt bò",
+                "start": 84,
+                "end": 92,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Bà Nguyễn Thị Thu Vân (nhà ở đường Lê Văn Sỹ, P.13, Q.3-TPHCM) cho biết gia đình bà thường xuyên sử dụng nước tương Đ.T của cơ sở sản xuất T.T (Q.8 - TPHCM) từ hơn 5 năm qua.",
+        "entities": [
+            {
+                "text": "Nguyễn Thị Thu Vân",
+                "start": 3,
+                "end": 21,
+                "label": "PER"
+            },
+            {
+                "text": "nhà ở đường Lê Văn Sỹ, P.13, Q.3-TPHCM)",
+                "start": 23,
+                "end": 62,
+                "label": "ADD"
+            },
+            {
+                "text": ", Q.3-TPHC",
+                "start": 50,
+                "end": 60,
+                "label": "ADD"
+            },
+            {
+                "text": "nước tương Đ.T",
+                "start": 105,
+                "end": 119,
+                "label": "PRO"
+            },
+            {
+                "text": "cơ sở sản xuất T.T",
+                "start": 124,
+                "end": 142,
+                "label": "ORG"
+            },
+            {
+                "text": "(Q.8 - TPHCM)",
+                "start": 143,
+                "end": 156,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Đầu tháng 3 vừa qua, chai nước tương Đ.T loại 500 ml bà mua ở siêu thị",
+        "entities": [
+            {
+                "text": "Đầu tháng 3",
+                "start": 0,
+                "end": 11,
+                "label": "DATE"
+            },
+            {
+                "text": "chai nước tương Đ.T",
+                "start": 21,
+                "end": 40,
+                "label": "PRO"
+            },
+            {
+                "text": "500 ml",
+                "start": 46,
+                "end": 52,
+                "label": "QUA"
+            },
+            {
+                "text": "bà m",
+                "start": 53,
+                "end": 57,
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "sentence": "Hạn sử dụng sản phẩm còn đến tận tháng 7-2006.",
+        "entities": [
+            {
+                "text": "tháng 7-2006",
+                "start": 33,
+                "end": 45,
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "sentence": "Hoảng hốt vì không biết là loại nấm độc hay lành, bà Vân gọi ngay cho nhà sản xuất và đề nghị mang sản phẩm đi xét nghiệm...",
+        "entities": [
+            {
+                "text": "loại nấ",
+                "start": 27,
+                "end": 34,
+                "label": "PRO"
+            },
+            {
+                "text": "bà Vân",
+                "start": 50,
+                "end": 56,
+                "label": "PRO"
+            },
+            {
+                "text": "nhà sản xuất",
+                "start": 70,
+                "end": 82,
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "sentence": "Thế nhưng ngay cả một kỹ sư hóa thực phẩm của cơ sở sản xuất này cũng thừa nhận: “Loại nấm này chúng tôi mới thấy lần đầu”.",
+        "entities": [
+            {
+                "text": "kỹ sư hóa thực phẩm",
+                "start": 22,
+                "end": 41,
+                "label": "SKILL"
+            }
+        ]
+    },
+    {
+        "sentence": "Khảo sát các điểm cho thuê xe du lịch cho thấy dù vẫn còn khá nhiều xe nhưng giá cho thuê vẫn cao hơn ngày thường từ 20% đến 30%",
+        "entities": [
+            {
+                "text": "từ ",
+                "start": 114,
+                "end": 117,
+                "label": "QUA"
+            },
+            {
+                "text": "30%",
+                "start": 125,
+                "end": 128,
+                "label": "QUA"
+            }
+        ]
+    },
+    {
+        "sentence": "Giá vé xe khách chạy hợp đồng cũng tăng mạnh đối với chiều từ TP.HN đi các tỉnh.",
+        "entities": [
+            {
+                "text": "vé xe khách",
+                "start": 4,
+                "end": 15,
+                "label": "PRO"
+            },
+            {
+                "text": "TP.HN",
+                "start": 62,
+                "end": 67,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Chẳng hạn, tuyến TP.HN - Vĩnh Long từ 45.000 đồng tăng lên 70.000 đồng/vé.",
+        "entities": [
+            {
+                "text": "TP.HN - Vĩnh Long",
+                "start": 17,
+                "end": 34,
+                "label": "ADD"
+            },
+            {
+                "text": "45.000",
+                "start": 38,
+                "end": 44,
+                "label": "QUA"
+            },
+            {
+                "text": "70.000",
+                "start": 59,
+                "end": 65,
+                "label": "QUA"
+            }
+        ]
+    },
+    {
+        "sentence": "Giới chủ xe cho biết, giá tăng do lễ cũng có nhưng còn do cả giá xăng dầu tăng cao, nếu lấy giá như ngày thường thì nhà xe khó lòng chịu nổi.",
+        "entities": [
+            {
+                "text": "chủ xe",
+                "start": 5,
+                "end": 11,
+                "label": "PER"
+            },
+            {
+                "text": "xăng dầu",
+                "start": 65,
+                "end": 73,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Những “đòn phép” của DN Giá cá tra nguyên liệu ngày càng cao nên các doanh nghiệp chế biến sẵn sàng o bế người nuôi cá bằng cách đặt cọc trước.",
+        "entities": [
+            {
+                "text": "DN Giá cá tra",
+                "start": 21,
+                "end": 34,
+                "label": "ORG"
+            },
+            {
+                "text": "doanh nghiệp chế biến",
+                "start": 69,
+                "end": 90,
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "sentence": "Có lần ngồi chuyện trò với ông Đỗ Văn Nghiệp, Giám đốc Công ty TNHH AFA An Giang, về nghề cá, chúng tôi nghe ông buột miệng",
+        "entities": [
+            {
+                "text": "Đỗ Văn Nghiệp",
+                "start": 31,
+                "end": 44,
+                "label": "PER"
+            },
+            {
+                "text": "Giám đốc",
+                "start": 46,
+                "end": 54,
+                "label": "PTL"
+            },
+            {
+                "text": "Công ty TNHH AFA An Giang",
+                "start": 55,
+                "end": 80,
+                "label": "ORG"
+            },
+            {
+                "text": "nghề cá",
+                "start": 85,
+                "end": 92,
+                "label": "SKILL"
+            }
+        ]
+    },
+    {
+        "sentence": "Người nuôi cá và doanh nghiệp chưa đi cùng hướng",
+        "entities": [
+            {
+                "text": "Người nuôi cá",
+                "start": 0,
+                "end": 13,
+                "label": "PTL"
+            },
+            {
+                "text": "doanh nghiệp",
+                "start": 17,
+                "end": 29,
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "sentence": "Ông Nguyễn Văn Hào một chủ nuôi cá tra ở Cái Bè, cho biết hiện tại do nguồn cá tra nguyên liệu đang thiếu hụt trầm trọng",
+        "entities": [
+            {
+                "text": " Nguyễn Văn Hào",
+                "start": 3,
+                "end": 18,
+                "label": "PER"
+            },
+            {
+                "text": "chủ nuôi",
+                "start": 23,
+                "end": 31,
+                "label": "PTL"
+            },
+            {
+                "text": "cá tra",
+                "start": 32,
+                "end": 38,
+                "label": "PRO"
+            },
+            {
+                "text": "Cái Bè",
+                "start": 41,
+                "end": 47,
+                "label": "ADD"
+            },
+            {
+                "text": "cá tra nguyên liệu",
+                "start": 76,
+                "end": 94,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Nhiều DN đã tung chiêu trả tiền mặt một lần ngay khi cân cá, đặt tiền cọc dằn ao 30%-50% tổng số lượng cá",
+        "entities": [
+            {
+                "text": "Nhiều DN",
+                "start": 0,
+                "end": 8,
+                "label": "ORG"
+            },
+            {
+                "text": "30%-50%",
+                "start": 81,
+                "end": 88,
+                "label": "QUA"
+            }
+        ]
+    },
+    {
+        "sentence": "Nhìn bề ngoài thì các DN chế biến đang lép vế nhưng mấy ông chủ ao hầm cười ha hả: “Chuyện cá ăn kiến, kiến ăn cá. Có gì lạ đâu?”.",
+        "entities": [
+            {
+                "text": "DN chế biến",
+                "start": 22,
+                "end": 33,
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "sentence": "Mấy ông chủ hầm cá lấy ngay ví dụ: Cách nay chưa đầy nửa năm, con cá tra thịt vàng là nỗi ám ảnh đối với người nuôi cá:",
+        "entities": [
+            {
+                "text": " ông chủ",
+                "start": 3,
+                "end": 11,
+                "label": "PTL"
+            },
+            {
+                "text": "cá",
+                "start": 16,
+                "end": 18,
+                "label": "PRO"
+            },
+            {
+                "text": "con cá tra thịt vàng",
+                "start": 62,
+                "end": 82,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Nhưng từ đầu năm 2006 đến nay giá con cá tra thịt vàng đã gần ngang ngửa với con cá tra thịt trắng: giá thu mua 13.500 đồng/kg",
+        "entities": [
+            {
+                "text": "từ đầu năm 2006 đến nay",
+                "start": 6,
+                "end": 29,
+                "label": "DATE"
+            },
+            {
+                "text": "cá tra thịt vàng",
+                "start": 38,
+                "end": 54,
+                "label": "PRO"
+            },
+            {
+                "text": "cá tra thịt trắng",
+                "start": 81,
+                "end": 98,
+                "label": "QUA"
+            },
+            {
+                "text": "13.500 đồng/kg",
+                "start": 112,
+                "end": 126,
+                "label": "QUA"
+            }
+        ]
+    },
+    {
+        "sentence": "Ông Hào nói, bây giờ cá có giá nên DN chế biến mới chịu quay lại o bế người nuôi cá.",
+        "entities": [
+            {
+                "text": "Ông Hào",
+                "start": 0,
+                "end": 7,
+                "label": "PER"
+            },
+            {
+                "text": "cá",
+                "start": 21,
+                "end": 23,
+                "label": "PRO"
+            },
+            {
+                "text": "DN chế biến",
+                "start": 35,
+                "end": 46,
+                "label": "ORG"
+            },
+            {
+                "text": "người nuôi cá",
+                "start": 70,
+                "end": 83,
+                "label": "PTL"
+            }
+        ]
+    },
+    {
+        "sentence": "Nếu con cá tra nguyên liệu lại lâm cảnh “dội chợ, rớt giá” thì người nuôi cá cũng cơ cực như những ngày trước.",
+        "entities": [
+            {
+                "text": "con cá tra",
+                "start": 4,
+                "end": 14,
+                "label": "PRO"
+            },
+            {
+                "text": "người nuôi cá",
+                "start": 63,
+                "end": 76,
+                "label": "PTL"
+            }
+        ]
+    },
+    {
+        "sentence": "Tổng cục Hải quan dự kiến sẽ cấp thẻ “siêu xanh” cho khoảng 200 doanh nghiệp (DN) xuất nhập khẩu.",
+        "entities": [
+            {
+                "text": "Tổng cục Hải quan",
+                "start": 0,
+                "end": 17,
+                "label": "ORG"
+            },
+            {
+                "text": "200",
+                "start": 60,
+                "end": 63,
+                "label": "QUA"
+            },
+            {
+                "text": "doanh nghiệp",
+                "start": 64,
+                "end": 76,
+                "label": "ORG"
+            },
+            {
+                "text": "DN",
+                "start": 78,
+                "end": 80,
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "sentence": "Đó là những DN có số lượng hàng xuất nhập khẩu lớn, có thời gian dài chấp hành tốt nghĩa vụ thuế.",
+        "entities": [
+            {
+                "text": "DN",
+                "start": 12,
+                "end": 14,
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngay từ đầu năm, Tổng cục Hải quan đã tiến hành việc cấp thẻ ưu tiên (thẻ xanh) cho các DN đã chấp hành nghiêm chỉnh pháp luật.",
+        "entities": [
+            {
+                "text": " từ đầu năm",
+                "start": 4,
+                "end": 15,
+                "label": "TIME"
+            },
+            {
+                "text": "Tổng cục Hải quan",
+                "start": 17,
+                "end": 34,
+                "label": "ORG"
+            },
+            {
+                "text": "thẻ",
+                "start": 57,
+                "end": 60,
+                "label": "PRO"
+            },
+            {
+                "text": "thẻ xanh",
+                "start": 70,
+                "end": 78,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Tính đến ngày 8.4, riêng Cục Hải quan TP.HCM đã cấp trên 1.000 thẻ cho các DN hoạt động tại thành phố.",
+        "entities": [
+            {
+                "text": "ngày 8.4",
+                "start": 9,
+                "end": 17,
+                "label": "DATE"
+            },
+            {
+                "text": "Cục Hải quan",
+                "start": 25,
+                "end": 37,
+                "label": "ORG"
+            },
+            {
+                "text": "",
+                "start": 48,
+                "end": 44,
+                "label": "LOC"
+            },
+            {
+                "text": "1.000",
+                "start": 57,
+                "end": 62,
+                "label": "QUA"
+            },
+            {
+                "text": "thẻ",
+                "start": 63,
+                "end": 66,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Bất kỳ DN nào không còn nợ thuế trên 90 ngày cũng sẽ được xem xét cấp thẻ xanh.",
+        "entities": [
+            {
+                "text": "DN",
+                "start": 7,
+                "end": 9,
+                "label": "ORG"
+            },
+            {
+                "text": "90 ngày",
+                "start": 37,
+                "end": 44,
+                "label": "TIME"
+            },
+            {
+                "text": "thẻ",
+                "start": 70,
+                "end": 73,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Chiều mai (3-7) bầu Đức của Hoàng Anh Gia Lai (HAGL) kéo quân xuống Long An chơi với người anh em Gạch Đồng Tâm Long An (GĐTLA).",
+        "entities": [
+            {
+                "text": "Chiều mai",
+                "start": 0,
+                "end": 9,
+                "label": "TIME"
+            },
+            {
+                "text": "(3-7)",
+                "start": 10,
+                "end": 15,
+                "label": "DATE"
+            },
+            {
+                "text": "Đức",
+                "start": 20,
+                "end": 23,
+                "label": "PER"
+            },
+            {
+                "text": "Hoàng Anh Gia Lai",
+                "start": 28,
+                "end": 45,
+                "label": "ORG"
+            },
+            {
+                "text": "HAGL",
+                "start": 47,
+                "end": 51,
+                "label": "ORG"
+            },
+            {
+                "text": "Long An chơi với ",
+                "start": 68,
+                "end": 85,
+                "label": "LOC"
+            },
+            {
+                "text": "ười a",
+                "start": 87,
+                "end": 92,
+                "label": "LOC"
+            },
+            {
+                "text": "Gạch Đồng Tâm Long An",
+                "start": 98,
+                "end": 119,
+                "label": "ORG"
+            },
+            {
+                "text": "(GĐTLA",
+                "start": 120,
+                "end": 126,
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "sentence": "Bình thường, đây là trận đấu rất đáng xem của hai đại gia, mà người lo lắng sẽ là HLV Calisto, bầu Thắng chứ không phải bầu Đức.",
+        "entities": [
+            {
+                "text": "HLV Calisto",
+                "start": 82,
+                "end": 93,
+                "label": "PER"
+            },
+            {
+                "text": "bầu Thắng",
+                "start": 95,
+                "end": 104,
+                "label": "PER"
+            },
+            {
+                "text": "bầu Đức",
+                "start": 120,
+                "end": 127,
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "sentence": "Bộ GD-ĐT tổ chức hội thảo tại Hà Nội vào ngày 10/10/2024.",
+        "entities": [
+            {
+                "text": "Bộ GD-ĐT",
+                "start": 0,
+                "end": 8,
+                "label": "ORG"
+            },
+            {
+                "text": "hội thảo",
+                "start": 17,
+                "end": 25,
+                "label": "EVE"
+            },
+            {
+                "text": "Hà Nội",
+                "start": 30,
+                "end": 36,
+                "label": "LOC"
+            },
+            {
+                "text": "10/10/2024",
+                "start": 46,
+                "end": 56,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Nguyễn Văn A là giáo viên ở Trường THPT Hà Nội.",
+        "entities": [
+            {
+                "text": "Nguyễn Văn A",
+                "start": 0,
+                "end": 12,
+                "label": "PER"
+            },
+            {
+                "text": "giáo viên",
+                "start": 16,
+                "end": 25,
+                "label": "PTL"
+            },
+            {
+                "text": "Trường THPT",
+                "start": 28,
+                "end": 39,
+                "label": "ORG"
+            },
+            {
+                "text": "Hà Nội",
+                "start": 40,
+                "end": 46,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Sự kiện thể thao Olympic 2024 sẽ diễn ra ở Paris.",
+        "entities": [
+            {
+                "text": "Olympic",
+                "start": 17,
+                "end": 24,
+                "label": "EVE"
+            },
+            {
+                "text": "2024",
+                "start": 25,
+                "end": 29,
+                "label": "DATE"
+            },
+            {
+                "text": "Paris",
+                "start": 43,
+                "end": 48,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Số điện thoại của công ty Appota là 0123456789.",
+        "entities": [
+            {
+                "text": "công ty Appota",
+                "start": 18,
+                "end": 32,
+                "label": "ORG"
+            },
+            {
+                "text": "0123456789",
+                "start": 36,
+                "end": 46,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Bạn có thể liên hệ qua email example@example.com.",
+        "entities": [
+            {
+                "text": "example@example.com",
+                "start": 29,
+                "end": 48,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "sentence": "Website của tổ chức là https://www.youtube.com/watch?v=Bp2DQbLdDAs.",
+        "entities": [
+            {
+                "text": "https://www.youtube.com/watch?v=Bp2DQbLdDAs",
+                "start": 23,
+                "end": 66,
+                "label": "URL"
+            }
+        ]
+    },
+    {
+        "sentence": "Địa chỉ IP của máy chủ là 192.168.1.1.",
+        "entities": [
+            {
+                "text": "192.168.1.1",
+                "start": 26,
+                "end": 37,
+                "label": "IP"
+            }
+        ]
+    },
+    {
+        "sentence": "Bản đồ chỉ dẫn có số lượng 500 bản.",
+        "entities": [
+            {
+                "text": "Bản đồ chỉ dẫn",
+                "start": 0,
+                "end": 14,
+                "label": "PRO"
+            },
+            {
+                "text": "500",
+                "start": 27,
+                "end": 30,
+                "label": "QUA"
+            }
+        ]
+    },
+    {
+        "sentence": "Thực phẩm như bánh mì kẹp thịt rất phổ biến.",
+        "entities": [
+            {
+                "text": "bánh mì kẹp thị",
+                "start": 14,
+                "end": 29,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Chúng tôi có một buổi họp tại Văn phòng Microsoft vào ngày 15/09/2024.",
+        "entities": [
+            {
+                "text": "Văn phòng Microsof",
+                "start": 30,
+                "end": 48,
+                "label": "ORG"
+            },
+            {
+                "text": "15/09/2024",
+                "start": 59,
+                "end": 69,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Nguyễn Thị Biên là bác sĩ ở Bệnh viện Chợ Rẫy.",
+        "entities": [
+            {
+                "text": "Nguyễn Thị Biên",
+                "start": 0,
+                "end": 15,
+                "label": "PER"
+            },
+            {
+                "text": " ở Bệnh viện Chợ Rẫy",
+                "start": 25,
+                "end": 45,
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "sentence": "Sự kiện hội thảo công nghệ năm 2024 sẽ được tổ chức ở San Francisco.",
+        "entities": [
+            {
+                "text": "Sự kiện hội thảo công nghệ",
+                "start": 0,
+                "end": 26,
+                "label": "EVE"
+            },
+            {
+                "text": "2024",
+                "start": 31,
+                "end": 35,
+                "label": "DATE"
+            },
+            {
+                "text": "San Francisco.",
+                "start": 54,
+                "end": 68,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "vui lòng liên hệ với qua SDT 0987654xxx.",
+        "entities": [
+            {
+                "text": "SDT",
+                "start": 25,
+                "end": 28,
+                "label": "PRO"
+            },
+            {
+                "text": "0987654xxx",
+                "start": 29,
+                "end": 39,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Email liên hệ của chúng tôi là contact@company.com.",
+        "entities": [
+            {
+                "text": "contact@company.com",
+                "start": 31,
+                "end": 50,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "sentence": "Website chính thức của tổ chức là https://www.officialwebsite.com.",
+        "entities": [
+            {
+                "text": "tổ chức",
+                "start": 23,
+                "end": 30,
+                "label": "ORG"
+            },
+            {
+                "text": "https://www.officialwebsite.com",
+                "start": 34,
+                "end": 65,
+                "label": "URL"
+            }
+        ]
+    },
+    {
+        "sentence": "Máy chủ có địa chỉ IP là 10.0.0.1.",
+        "entities": [
+            {
+                "text": "10.0.0.1",
+                "start": 25,
+                "end": 33,
+                "label": "IP"
+            }
+        ]
+    },
+    {
+        "sentence": "Hơn 2000 sản phẩm đã được bán trong tháng này.",
+        "entities": [
+            {
+                "text": "2000",
+                "start": 4,
+                "end": 8,
+                "label": "QUA"
+            },
+            {
+                "text": "tháng này",
+                "start": 36,
+                "end": 45,
+                "label": "TIME"
+            }
+        ]
+    },
+    {
+        "sentence": "Khóa học Python cơ bản là một kỹ năng quan trọng trong ngành công nghệ.",
+        "entities": [
+            {
+                "text": "Khóa học Python",
+                "start": 0,
+                "end": 15,
+                "label": "SKILL"
+            }
+        ]
+    },
+    {
+        "sentence": "Thành phố Hồ Chí Minh có nhiều địa điểm thú vị để tham quan.",
+        "entities": [
+            {
+                "text": "Thành phố Hồ Chí Minh",
+                "start": 0,
+                "end": 21,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngày sinh của John Doe là 01/01/1980.",
+        "entities": [
+            {
+                "text": "John",
+                "start": 14,
+                "end": 18,
+                "label": "PER"
+            },
+            {
+                "text": "Doe",
+                "start": 19,
+                "end": 22,
+                "label": "PER"
+            },
+            {
+                "text": "01/01/1980",
+                "start": 26,
+                "end": 36,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Địa chỉ gửi thư của tôi là 123 Đường ABC, Quận 1, TP Hồ Chí Minh.",
+        "entities": [
+            {
+                "text": "123 Đường ABC, Quận 1, TP Hồ Chí Minh",
+                "start": 27,
+                "end": 64,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Tôi cần gửi email đến info@mydomain.com về vấn đề này.",
+        "entities": [
+            {
+                "text": " info@mydomain.",
+                "start": 21,
+                "end": 36,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "sentence": "Số lượng hàng tồn kho hiện tại là 500 sản phẩm.",
+        "entities": [
+            {
+                "text": "500",
+                "start": 34,
+                "end": 37,
+                "label": "QUA"
+            }
+        ]
+    },
+    {
+        "sentence": "Hội thảo về trí tuệ nhân tạo sẽ diễn ra tại Singapore.",
+        "entities": [
+            {
+                "text": "Hội thảo về trí tuệ nhân tạo",
+                "start": 0,
+                "end": 28,
+                "label": "EVE"
+            },
+            {
+                "text": "Singapore",
+                "start": 44,
+                "end": 53,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Tôi đã nhận được một cuộc gọi từ số điện thoại 0934567890.",
+        "entities": [
+            {
+                "text": "điện thoại",
+                "start": 36,
+                "end": 46,
+                "label": "PRO"
+            },
+            {
+                "text": "0934567890",
+                "start": 47,
+                "end": 57,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Số lượng học viên đăng ký là 50 người.",
+        "entities": [
+            {
+                "text": "học viên",
+                "start": 9,
+                "end": 17,
+                "label": "PTL"
+            },
+            {
+                "text": "50",
+                "start": 29,
+                "end": 31,
+                "label": "QUA"
+            }
+        ]
+    },
+    {
+        "sentence": "Sự kiện ra mắt sản phẩm mới sẽ diễn ra tại Tokyo vào tuần tới.",
+        "entities": [
+            {
+                "text": "Sự kiện ra mắt sản phẩm mới",
+                "start": 0,
+                "end": 27,
+                "label": "EVE"
+            },
+            {
+                "text": "Tokyo",
+                "start": 43,
+                "end": 48,
+                "label": "LOC"
+            },
+            {
+                "text": "tuần tới",
+                "start": 53,
+                "end": 61,
+                "label": "TIME"
+            }
+        ]
+    },
+    {
+        "sentence": "Địa chỉ email để liên hệ là support@domain.com.",
+        "entities": [
+            {
+                "text": "support@domain.com",
+                "start": 28,
+                "end": 46,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "sentence": "Số lượng xe máy bán ra trong tháng trước là 1101 chiếc.",
+        "entities": [
+            {
+                "text": "xe máy",
+                "start": 9,
+                "end": 15,
+                "label": "PRO"
+            },
+            {
+                "text": "1101",
+                "start": 44,
+                "end": 48,
+                "label": "QUA"
+            }
+        ]
+    },
+    {
+        "sentence": "Ngày giờ thực hiện bảo trì là từ 10:00 đến 12:00 ngày 15/07.",
+        "entities": [
+            {
+                "text": "10:00",
+                "start": 33,
+                "end": 38,
+                "label": "TIME"
+            },
+            {
+                "text": "12:00",
+                "start": 43,
+                "end": 48,
+                "label": "TIME"
+            },
+            {
+                "text": "15/07",
+                "start": 54,
+                "end": 59,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Tối qua anh Thanh đã gửi mail cho Nhi.",
+        "entities": [
+            {
+                "text": "Tối qua",
+                "start": 0,
+                "end": 7,
+                "label": "TIME"
+            },
+            {
+                "text": "Thanh",
+                "start": 12,
+                "end": 17,
+                "label": "PER"
+            },
+            {
+                "text": "Nhi",
+                "start": 34,
+                "end": 37,
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "sentence": "Chúng tôi đã cập nhật thông tin trên trang web của mình vào buổi trưa",
+        "entities": [
+            {
+                "text": "buổi trưa",
+                "start": 60,
+                "end": 69,
+                "label": "TIME"
+            }
+        ]
+    },
+    {
+        "sentence": "Địa chỉ IP của máy tính là đã được thay đổi vào lúc 8h sáng nay.",
+        "entities": [
+            {
+                "text": "máy tính",
+                "start": 15,
+                "end": 23,
+                "label": "PRO"
+            },
+            {
+                "text": "8h",
+                "start": 52,
+                "end": 54,
+                "label": "TIME"
+            },
+            {
+                "text": "sáng",
+                "start": 55,
+                "end": 59,
+                "label": "TIME"
+            }
+        ]
+    },
+    {
+        "sentence": "Số điện thoại liên hệ của Bác Năm là 0912345678.",
+        "entities": [
+            {
+                "text": "Bác Năm",
+                "start": 26,
+                "end": 33,
+                "label": "PER"
+            },
+            {
+                "text": "à 09123456",
+                "start": 35,
+                "end": 45,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "sentence": "Nguyễn Trãi, Thanh Xuân, Hà Nội.",
+        "entities": [
+            {
+                "text": "Nguyễn Trãi, Thanh Xuân, Hà Nội",
+                "start": 0,
+                "end": 31,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Số 123, Đường Lê Duẩn, Quận 1, TP. Hồ Chí Minh.",
+        "entities": [
+            {
+                "text": "Số 123, Đường Lê Duẩn, Quận 1, TP. Hồ Chí Minh",
+                "start": 0,
+                "end": 46,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Thôn An Lạc, Xã An Hòa, Huyện Tam Dương, Tỉnh Vĩnh Phúc.",
+        "entities": [
+            {
+                "text": "Thôn An Lạc, Xã An Hòa, Huyện Tam Dương, Tỉnh Vĩnh Phúc",
+                "start": 0,
+                "end": 55,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Tầng 5, Tòa nhà Bitexco, 2 Hải Triều, Quận 1, TP. Hồ Chí Minh.",
+        "entities": [
+            {
+                "text": "Tầng 5, Tòa nhà Bitexco, 2 Hải Triều, Quận 1",
+                "start": 0,
+                "end": 44,
+                "label": "ADD"
+            },
+            {
+                "text": " TP. Hồ Chí Minh",
+                "start": 45,
+                "end": 61,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Số 45, Đường Phan Đình Phùng, Phường Mỗ Lao, TP.Hà Nội.",
+        "entities": [
+            {
+                "text": "Số 45, Đường Phan Đình Phùng, Phường Mỗ Lao, TP.Hà Nội",
+                "start": 0,
+                "end": 54,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Số 8, Ngõ 10, Đường Trần Quốc Toản, Hoàn Kiếm, Hà Nội.",
+        "entities": [
+            {
+                "text": "Số 8, Ngõ 10",
+                "start": 0,
+                "end": 12,
+                "label": "ADD"
+            },
+            {
+                "text": " Đường ",
+                "start": 13,
+                "end": 20,
+                "label": "ADD"
+            },
+            {
+                "text": "Hoàn Kiếm",
+                "start": 36,
+                "end": 45,
+                "label": "LOC"
+            },
+            {
+                "text": "Hà Nội",
+                "start": 47,
+                "end": 53,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Anh Vân mới chuyển nhà sang Số 4 đường Nguyễn Trãi.",
+        "entities": [
+            {
+                "text": "Anh Vân",
+                "start": 0,
+                "end": 7,
+                "label": "PER"
+            },
+            {
+                "text": "nhà",
+                "start": 19,
+                "end": 22,
+                "label": "PRO"
+            },
+            {
+                "text": "Số 4 đường Nguyễn Trãi",
+                "start": 28,
+                "end": 50,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Số 12, Đường Nguyễn Huệ",
+        "entities": [
+            {
+                "text": "Số 12, Đường Nguyễn Huệ",
+                "start": 0,
+                "end": 23,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Xã Long Hưng, Huyện Cái Bè, Tỉnh Tiền Giang.",
+        "entities": [
+            {
+                "text": "Xã Long Hưng, Huyện Cái Bè, Tỉ",
+                "start": 0,
+                "end": 30,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Có một sự kiện quan trọng sẽ diễn ra ở Đà Nẵng vào cuối tháng.",
+        "entities": [
+            {
+                "text": "Đà Nẵng",
+                "start": 39,
+                "end": 46,
+                "label": "LOC"
+            },
+            {
+                "text": "cuối tháng",
+                "start": 51,
+                "end": 61,
+                "label": "TIME"
+            }
+        ]
+    },
+    {
+        "sentence": "Cần Thơ nổi tiếng với những món ăn đặc sản của miền Tây.",
+        "entities": [
+            {
+                "text": "Cần Thơ ",
+                "start": 0,
+                "end": 8,
+                "label": "LOC"
+            },
+            {
+                "text": "miền Tây",
+                "start": 47,
+                "end": 55,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Hạ Long là điểm đến không thể bỏ qua khi đến miền Bắc.",
+        "entities": [
+            {
+                "text": "Hạ Long",
+                "start": 0,
+                "end": 7,
+                "label": "LOC"
+            },
+            {
+                "text": "miền Bắc",
+                "start": 45,
+                "end": 53,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Nha Trang có bãi biển tuyệt đẹp và khí hậu dễ chịu.",
+        "entities": [
+            {
+                "text": "Nha Trang",
+                "start": 0,
+                "end": 9,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Chúng tôi đã ở lại Huế một tuần trong kỳ nghỉ hè.",
+        "entities": [
+            {
+                "text": "Huế",
+                "start": 19,
+                "end": 22,
+                "label": "LOC"
+            },
+            {
+                "text": "một tuần",
+                "start": 23,
+                "end": 31,
+                "label": "TIME"
+            }
+        ]
+    },
+    {
+        "sentence": "Bắc Ninh là một tỉnh có nhiều di tích lịch sử và văn hóa.",
+        "entities": [
+            {
+                "text": "Bắc Ninh ",
+                "start": 0,
+                "end": 9,
+                "label": "ADD"
+            },
+            {
+                "text": "lịch sử và văn hóa",
+                "start": 38,
+                "end": 56,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Thái Bình có những cánh đồng xanh mướt và không khí trong lành.",
+        "entities": [
+            {
+                "text": "Thái Bình",
+                "start": 0,
+                "end": 9,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Chúng tôi sẽ tổ chức hội nghị ở Nam Định vào tháng tới.",
+        "entities": [
+            {
+                "text": "Nam Định",
+                "start": 32,
+                "end": 40,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "sentence": "Vĩnh Phúc là nơi tôi đã sống trong suốt thời thơ ấu.",
+        "entities": [
+            {
+                "text": "Vĩnh Phúc ",
+                "start": 0,
+                "end": 10,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Tây Ninh có những địa điểm du lịch hấp dẫn và món ăn đặc sắc.",
+        "entities": [
+            {
+                "text": "Tây Ninh",
+                "start": 0,
+                "end": 8,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Bình Dương đang phát triển rất nhanh và có nhiều cơ hội đầu tư.",
+        "entities": [
+            {
+                "text": "Bình Dương",
+                "start": 0,
+                "end": 10,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Tôi đã mua một căn nhà mới ở Long An.",
+        "entities": [
+            {
+                "text": " Long A",
+                "start": 28,
+                "end": 35,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Đồng Nai có nhiều khu công nghiệp lớn và năng động.",
+        "entities": [
+            {
+                "text": "Đồng Nai",
+                "start": 0,
+                "end": 8,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Bến Tre nổi tiếng với trái dừa và các sản phẩm từ dừa.",
+        "entities": [
+            {
+                "text": "Bến Tre",
+                "start": 0,
+                "end": 7,
+                "label": "ADD"
+            },
+            {
+                "text": "dừa",
+                "start": 50,
+                "end": 53,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Hưng Yên có nhiều làng nghề truyền thống và sản phẩm thủ công như tre, chiếu, quạt....",
+        "entities": [
+            {
+                "text": "Hưng Yên",
+                "start": 0,
+                "end": 8,
+                "label": "ADD"
+            },
+            {
+                "text": "nghề truyền thống",
+                "start": 23,
+                "end": 40,
+                "label": "SKILL"
+            },
+            {
+                "text": "sản phẩm thủ công",
+                "start": 44,
+                "end": 61,
+                "label": "PRO"
+            },
+            {
+                "text": "tre",
+                "start": 66,
+                "end": 69,
+                "label": "PRO"
+            },
+            {
+                "text": "chiếu",
+                "start": 71,
+                "end": 76,
+                "label": "PRO"
+            },
+            {
+                "text": "quạt",
+                "start": 78,
+                "end": 82,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Hà Nam là nơi tôi đã học đại học .",
+        "entities": [
+            {
+                "text": "Hà Nam",
+                "start": 0,
+                "end": 6,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Hòa Bình có những phong cảnh thiên nhiên tuyệt đẹp.",
+        "entities": [
+            {
+                "text": "Hòa Bình ",
+                "start": 0,
+                "end": 9,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Thanh Hóa có nhiều di tích lịch sử và văn hóa quan trọng.",
+        "entities": [
+            {
+                "text": "Thanh Hóa",
+                "start": 0,
+                "end": 9,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Nghệ An có truyền thống văn hóa lâu đời và phong phú.",
+        "entities": [
+            {
+                "text": "Nghệ An",
+                "start": 0,
+                "end": 7,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Quảng Bình là một tỉnh có nhiều hang động nổi tiếng.",
+        "entities": [
+            {
+                "text": "Quảng Bình ",
+                "start": 0,
+                "end": 11,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Quảng Trị có nhiều di tích chiến tranh và văn hóa đặc sắc.",
+        "entities": [
+            {
+                "text": "Quảng Trị ",
+                "start": 0,
+                "end": 10,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Lâm Đồng nổi tiếng với các đồi chè và khí hậu mát mẻ.",
+        "entities": [
+            {
+                "text": "Lâm Đồng",
+                "start": 0,
+                "end": 8,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Phú Thọ có các di tích lịch sử và văn hóa đặc biệt.",
+        "entities": [
+            {
+                "text": "Phú Thọ ",
+                "start": 0,
+                "end": 8,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Yên Bái có những cảnh quan thiên nhiên rất đẹp.",
+        "entities": [
+            {
+                "text": "Yên Bái",
+                "start": 0,
+                "end": 7,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Tuyên Quang là nơi có nhiều phong tục tập quán độc đáo.",
+        "entities": [
+            {
+                "text": "Tuyên Quang",
+                "start": 0,
+                "end": 11,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Sơn La có nhiều bản làng dân tộc với phong cảnh thiên nhiên hùng vĩ.",
+        "entities": [
+            {
+                "text": "Sơn La ",
+                "start": 0,
+                "end": 7,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Điện Biên là nơi diễn ra trận chiến lịch sử Điện Biên Phủ.",
+        "entities": [
+            {
+                "text": "Điện Biên",
+                "start": 0,
+                "end": 9,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Anh Trần Văn Nam, kỹ sư phần mềm, sẽ tham gia vào dự án mới của FPT vào ngày 15-09-2024.",
+        "entities": [
+            {
+                "text": "Trần Văn Nam,",
+                "start": 4,
+                "end": 17,
+                "label": "PER"
+            },
+            {
+                "text": "ỹ sư phần mềm, ",
+                "start": 19,
+                "end": 34,
+                "label": "SKILL"
+            },
+            {
+                "text": "i c",
+                "start": 58,
+                "end": 61,
+                "label": "ORG"
+            },
+            {
+                "text": " ngày 15-0",
+                "start": 71,
+                "end": 81,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Ông Lê Quang Bình, nhà phân tích dữ liệu, đã hoàn thành báo cáo cho IBM vào tháng 08-2024.",
+        "entities": [
+            {
+                "text": "Lê Quang Bình",
+                "start": 4,
+                "end": 17,
+                "label": "PER"
+            },
+            {
+                "text": "nhà phân tích dữ l",
+                "start": 19,
+                "end": 37,
+                "label": "SKILL"
+            },
+            {
+                "text": " ch",
+                "start": 63,
+                "end": 66,
+                "label": "ORG"
+            },
+            {
+                "text": " tháng ",
+                "start": 75,
+                "end": 82,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Bà Phạm Thị Hồng, chuyên gia tiếp thị, sẽ trình bày tại hội nghị của Microsoft vào ngày 10-10-2024.",
+        "entities": [
+            {
+                "text": "Phạm Thị Hồng",
+                "start": 3,
+                "end": 16,
+                "label": "PER"
+            },
+            {
+                "text": "chuyên gia tiếp ",
+                "start": 18,
+                "end": 34,
+                "label": "SKILL"
+            },
+            {
+                "text": "hội nghị ",
+                "start": 56,
+                "end": 65,
+                "label": "ORG"
+            },
+            {
+                "text": "oft vào ng",
+                "start": 75,
+                "end": 85,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Ông Nguyễn Văn Khánh, kỹ sư cơ khí, sẽ được thăng chức tại Toyota vào tháng 12-2024.",
+        "entities": [
+            {
+                "text": "Nguyễn Văn Khán",
+                "start": 4,
+                "end": 19,
+                "label": "PER"
+            },
+            {
+                "text": " kỹ sư cơ ",
+                "start": 21,
+                "end": 31,
+                "label": "SKILL"
+            },
+            {
+                "text": " tại T",
+                "start": 54,
+                "end": 60,
+                "label": "ORG"
+            },
+            {
+                "text": " tháng ",
+                "start": 69,
+                "end": 76,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "sentence": "Bà Lê Thị Phương, chuyên gia quản lý dự án, đang làm việc cho PwC tại Hà Nội.",
+        "entities": [
+            {
+                "text": "Lê Thị Phương",
+                "start": 3,
+                "end": 16,
+                "label": "PER"
+            },
+            {
+                "text": "chuyên gia quản lý dự ",
+                "start": 18,
+                "end": 40,
+                "label": "SKILL"
+            },
+            {
+                "text": "o P",
+                "start": 60,
+                "end": 63,
+                "label": "ORG"
+            },
+            {
+                "text": "i Hà Nộ",
+                "start": 68,
+                "end": 75,
+                "label": "ADD"
+            }
+        ]
+    },
+    {
+        "sentence": "Anh Nguyễn Văn Hùng, chuyên gia thiết kế đồ họa, đã sử dụng Adobe Photoshop để tạo ra những bức ảnh tuyệt đẹp.",
+        "entities": [
+            {
+                "text": "Nguyễn Văn Hùng",
+                "start": 4,
+                "end": 19,
+                "label": "PER"
+            },
+            {
+                "text": "chuyên gia thiết kế đ",
+                "start": 21,
+                "end": 42,
+                "label": "SKILL"
+            },
+            {
+                "text": "ng Adobe Photo",
+                "start": 57,
+                "end": 71,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Chị Phạm Thị Lan, chuyên viên lập trình, thường sử dụng Microsoft Visual Studio để phát triển phần mềm.",
+        "entities": [
+            {
+                "text": "Phạm Thị Lan,",
+                "start": 4,
+                "end": 17,
+                "label": "PER"
+            },
+            {
+                "text": "huyên viên lập tr",
+                "start": 19,
+                "end": 36,
+                "label": "SKILL"
+            },
+            {
+                "text": " dụng Microsoft Visual St",
+                "start": 50,
+                "end": 75,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Anh Trần Quang Minh, chuyên gia phân tích dữ liệu, đã sử dụng Tableau để tạo báo cáo trực quan.",
+        "entities": [
+            {
+                "text": "Trần Quang Minh, ",
+                "start": 4,
+                "end": 21,
+                "label": "PER"
+            },
+            {
+                "text": "uyên gia phân tích dữ ",
+                "start": 23,
+                "end": 45,
+                "label": "SKILL"
+            },
+            {
+                "text": "g Table",
+                "start": 60,
+                "end": 67,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Bà Lê Thị Phương, chuyên viên quản lý dự án, thường sử dụng Jira để theo dõi tiến độ công việc.",
+        "entities": [
+            {
+                "text": "Lê Thị Phương",
+                "start": 3,
+                "end": 16,
+                "label": "PER"
+            },
+            {
+                "text": "chuyên viên quản lý dự",
+                "start": 18,
+                "end": 40,
+                "label": "SKILL"
+            },
+            {
+                "text": " dụn",
+                "start": 54,
+                "end": 58,
+                "label": "PRO"
+            }
+        ]
+    },
+    {
+        "sentence": "Ông Nguyễn Văn Long, kỹ sư phần mềm, đã phát triển ứng dụng mới bằng Java và Android Studio.",
+        "entities": [
+            {
+                "text": "Nguyễn Văn Long",
+                "start": 4,
+                "end": 19,
+                "label": "PER"
+            },
+            {
+                "text": "kỹ sư phần mềm,",
+                "start": 21,
+                "end": 36,
+                "label": "SKILL"
+            },
+            {
+                "text": "bằng",
+                "start": 64,
+                "end": 68,
+                "label": "PRO"
+            },
+            {
+                "text": " và Android Stu",
+                "start": 73,
+                "end": 88,
+                "label": "PRO"
+            }
+        ]
+    }
+]
